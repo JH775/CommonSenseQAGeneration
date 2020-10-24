@@ -67,12 +67,13 @@ Extract QA-set and vocab.txt from output.txt
     python3 ./input/BERT_data/create_BERT_date.py
 
 ```
-Clone paraphrasing model in anaconda terminal.
+Run BERT model in anaconda terminal.
 ```
     conda create --name bert_para python=3.6
     source activate bert_para 
-    git clone 
+    cd ./bert_model
     pip install -r requirements.py
+    jupyter notebook
 ```
 Add vocab.txt, QA-set to data folder of project and run Answer_BERT.ipynb.
 Run `combine_datasets.py` to combine all datasets into single csv-file.
