@@ -1,0 +1,878 @@
+context,question,answer,label,index1
+A woman in a yellow hat and yellow shirt holding her hand out like a claw .,How is something being held?,almost,no,1252
+"A pair of athletes are in a kayak equipped with protective gear and oars , rowing down a rapid body of water in a blue and white kayak .",How is something being rowed?,kayak,yes,4102
+A person is using a dropper to disperse colored liquid into a clear beverage .,Where is something being dispersed?,area,no,3962
+A man in a white shirt playing a white guitar standing in front of a microphone with the light casting a somewhat reddish hue on his shirt,Who is playing something?,someone,no,3496
+Three women huddling for warmth under a blanket .,Who is huddling for something?,like,no,1066
+"There are people in a museum , looking at wall panels and columns from antiquity .",What is someone looking at?,people,no,1706
+Spectators looking on while court jesters are in the street throwing something up in air .,Who is throwing something?,jesters,yes,666
+"A man stands in front of an easel , on which is painted the young woman standing in front of the ocean with a parasol .",Where is someone standing?,wall,no,542
+Two men dressed in medieval theater garb simulate a brawl .,What was someone dressed in?,garb,yes,4092
+Musicians are practicing as directed by a woman .,Who is someone practicing by?,a director,no,1895
+Girl in black jacket sifting powdered blood over a chocolate cake .,What is someone sifting?,powdered sugar,no,907
+"An Asian band , whose guitarist is shown near the right and those drummer is shown on the left , plays in a venue lit with blue rope lightning and a reddish cattle skull wall fixture .",Who is shown?,band,no,3568
+A young Asian students studying with a pencil and a dictionary while drinking a cola .,Who is studying with something?,A young Asian man,no,1165
+A man crosses the city street in a snowstorm while a van and garbage truck drive by .,How does someone cross something?,in a snowstorm,yes,2833
+A whole town participates in a war reenactment in the time .,Where does someone participate in something?,in the streets,no,1229
+Causal orchestra members play in a church sanctuary as the stain glass window and elegant columns stand boldly behind that .,When does someone play somewhere?,as the stain glass window and elegant columns stand boldly behind them,no,2207
+"A group of patrons sitting in green lounge chairs along a waterway , one of them has a black jacket across her chair , and is looking out at the water .",Who is sitting?,them,no,3062
+A bowler winding up for the toss .,What is someone winding on?,band,no,1048
+A woman and her saint bernard dog sitting on a bench in the park on a sunny day,When is someone sitting somewhere?,summer,no,696
+A person bungee jumping with the person watching from above .,Who is someone jumping with?,with the coordinator,no,161
+A woman in a psychic readings shop reads a customer 's palm while other women wait .,What does someone read?,mind,no,3334
+"A man wearing a plaid shirt , gray vest , and brown tie takes orange punch from a silver punch bowel .",Who is wearing something?,someone,no,3950
+A man in a purple shirt adding sugar to a bowl of orange mush .,Who is adding something?,someone,no,1298
+A helicopter is flying behind a plane that is performing aerobatics .,Where is something flying?,team,no,2362
+the band is getting band for tonight 's show with a pre - show run through .,What is someone getting?,ready,no,375
+Overlooking a store with a sign above shops that states Welcome To Golden .,What is being overlooked?,a street,no,3051
+"Two young children , one in striped top , running down pathway surrounded by ferns .",Where is someone running?,steps,no,482
+A group of men wearing old military clothes are standing in formation while they demonstrate the use of their rifles to a group of onlookers on a city street .,Who is standing?,A group of men wearing old military uniforms,no,681
+A throng of travelers is walking between two trains on an indoor station platform .,Where is someone walking somewhere?,hall,no,2538
+A marching band dressed in red tunics and black trousers with tall black furry headpieces are walking in pairs in cadence down a sidewalk bordering a stone wall .,What is being bordered?,building,no,3284
+A man in plaid strums and guitar while singing into a microphone in stage .,What is someone singing into?,stage,no,3162
+"A farm woman wearing blue waders , a pink shirt , and a straw hat is harvesting rice in a paddock .",Who wore something?,girl,no,3526
+He jumped into the pile of dirt we just finished raking .,What did someone finish?,the pile of leaves,no,263
+"Young men and women sit at a wooden table on which several partially - drunk beverages have been placed ; the picture is interrupted by an outstretched hand , colored green in the odd light of the wood - paneled interior .",What is colored?,even,no,1032
+An Asian band screaming at the top of their lungs and using drums .,Where was someone screaming?,voice,no,2922
+A bricklayer smoothing out concrete .,Who is smoothing up something?,A bricklayer,yes,443
+A woman is laying down on the pavement of her campsite .,Where is someone laying?,on the pavement of her campsite,yes,2569
+A that sits in an old - fashioned wooden confessional .,Who sits?,A clergyman,no,251
+"A black man wearing clothes popular in the late 60 's , has a left handed Fender Stratocaster , strapped on .",When did someone wear something?,in the late 60 's,yes,3115
+A small crowd of people gather in a desert in a poor village .,Where does someone gather?,house,no,3184
+"An older man holding a crook , outside , wearing a red embroidered hat with a black tassel hanging from it , red glasses , and red and gold embroidered vest over white robes",What is hanging?,a black tassel,yes,1525
+A man empties a bag of white crystals into a swimming pool .,What does someone empty something into?,bath,no,352
+"A pair of athletes are in a kayak equipped with protective gear and oars , rowing down a rapid body of water in a blue and white kayak .",What is equipped with something?,kayak,yes,4096
+Two after working on a roof installing insulation .,Who is working?,Two men,no,3609
+A woman with a red and orange apron makes paper - mache orbs while her friend leans into the frame .,What does something make?,paper - mache orbs,yes,1589
+"A tourist walks down the street , camera in hand , trying to find something worthy of a photo .",Who finds something?,that,no,4360
+A girl with freckles and metal earrings enjoys a cherry indoors .,Who enjoys something?,eyes,no,2454
+All are dancing with full attention to the music sung by the singer .,How is someone dancing?,with full energy,no,1605
+A stream of people wearing old century viking costumes and armor are marching along a walkway with stone buildings in the background .,Who is marching somewhere?,A stream of men,no,3035
+"A that walks through a clearing and carries a rifle along his back , casually holding it by the muzzle .",Who carries something?,A man,no,3749
+A young blond kids looking into a small compact applying face paint outdoors .,Who is applying something?,A young blond woman,no,381
+A Indian women displaying her cultural heritage with painted red fingers and an extravagant head piece .,How is something displayed?,dress,no,2480
+A man in a white shirt playing a white song standing in front of a microphone with the light casting a somewhat reddish hue on his shirt,What is someone playing?,a white guitar,no,3497
+"On a bright sunny day , two men seem to come to an agreement .",When does someone seem to do something?,night,no,4064
+A group of men dressed as American forefathers holding flags with a crowd and a brick building in the background .,How was someone dressed?,as American forefathers,yes,807
+A black and tan dog being held with a hand .,How is something held?,with a lease,no,2887
+"Musician sitting on the ground plays his guitar as crowds of people walk around him disregarding the sign in his case which states "" tell me why my music sucks "" .",What does someone tell someone?,works,no,2662
+A band who is performing in front of their many followers .,Who is performing?,someone,no,3926
+The girl is feeding the people with surprise .,What is someone feeding?,the bird,no,3039
+An asian woman is sitting on the floor inside holding a hand made from palm fronds .,What is someone holding?,a purse,no,1953
+"A worker in a blue shirt is high up on the outside of a tall office building , cleaning the windows .",Who is cleaning something?,someone,no,1630
+A recently adopted mixed breed medium sized dog bounds happily around the yard .,Where does something bound?,world,no,1622
+A harpist playing aside a flutist .,What is someone playing?,flutist,yes,3050
+A toddler wearing a pink shirt and jeans is placed on a shopping cart while sitting next to a loaf of bread .,What did someone wear?,pants,no,764
+Girl regains composure in a sunset with a man in the background,Where does someone regain something?,room,no,1834
+A group of children and their families walk on the boardwalk and eat ice cream .,Who eats something?,A group of children and their guardian,no,2467
+Presenters speaking at conference .,Who is speaking?,novel,no,1506
+"A stout , elderly someone wearing a red checkered shirt , black shorts , sandals , and a green cap casts his line over a balustrade into murky waters , while several others in the background do the same .",Who wore something?,"A stout , elderly man",no,2889
+"A man bent over in a forest wearing a red shirt and blue jeans , tapping the trees for maple syrup .",Where was someone bent?,crowd,no,3504
+Mixing some concoction with hands .,What is being mixed?,some concoction,yes,3679
+A person being dressed in clothing with feathers and sequins .,What was someone dressed in?,colour,no,2236
+"A person with gray eyes , dressed entirely in gray , lies on the wooden slats of a park bench .",Who is dressed?,A person with gray hair,no,1937
+A military man training his body for combat .,What did someone train?,his dog,no,3317
+A smiling man with a beard holds up a camera showing an abstract elephant cartoon painted in horizontal rainbow stripes .,What does someone hold up?,a poster,no,2901
+"A young boy is dressed in a blue helmet , sweater , jeans and sneakers looks like he is going to go zip ##ping .",How does something look?,like he is going to go zip lining,no,3431
+A man singing while playing guitar with passion .,Who is singing?,while,no,466
+a brown dog and a white dog are running across a stony hillock .,What is running?,bear,no,3864
+A man wearing glasses is looking at an electronic device wile holding a lollipop .,Who is wearing something?,people,no,124
+Man in tan shirt and brown that looks down the fairway at the golf ball he just hit .,Who looks somewhere?,Man in tan shirt and brown pants,no,1321
+well protesting US aide to Israel .,Who is protesting someone?,Palestinians,no,3029
+"A young boy , dressed in a karate shirt and wearing a yellow belt , stands ready to defend himself inside a gym .",What was someone dressed in?,a karate gee,no,1037
+Tattooed young woman chains her bicycle to a signpost while juggling a guitar on her back .,What does someone chain?,back,no,3176
+A video taken in a sepia setting with a man walking towards the camera along a cobble road lined with parked cars .,What was taken?,A photo,no,2853
+A young blond kids looking into a small compact applying face paint outdoors .,Who is looking into something?,A young blond woman,no,379
+"A person with gray hair , dressed entirely in gray , lies on the wooden slats of a park park .",What does someone lie on?,the wooden slats of a park bench,no,1941
+"Two men in life jackets , in a rubber raft powered by an engine , are traveling at high speed on the island with wind turbines on the distant shore .",Where is someone traveling?,on the water,no,3671
+"A young boy , dressed in a karate gee and wearing a yellow shirt , stands ready to defend himself inside a gym .",What did someone wear?,a yellow belt,no,1039
+The skateboarder prepares to wipeout .,What does someone prepare?,to wipeout,yes,173
+"A working people is burning logs , he is wearing a hat and white uniform .",Who is working?,man,no,633
+"A young girl is lying on some personal belongings , on a horse that is dragged by a horse and a man , on a dirt route .",What is dragged?,a cart,no,3251
+Someone working on a project using a jigsaw cutting machine .,What is being cut?,jigsaw,yes,958
+Someone working on a project using a jigsaw cutting machine .,Who used something?,just,no,956
+A man prepares a fire ##man to do some metalwork .,Where does someone prepare something?,outside,no,2645
+Four teenagers having a blast in a basement playing the video game Rock music .,What was someone playing?,the video game Rock Band,no,1711
+husband and even posing for a picture before going camping,Who was posing for something?,husband and wife,no,3757
+"Three they walk , in their hijab , alone in an area of Muslim denomination .",Who walks?,Three woman,no,2941
+A man with a ponytail wearing a blue collared shirt is playing an instrument 's mouthpiece .,What is someone playing?,mouthpiece,yes,1748
+"A pair of they are in a kayak equipped with protective gear and oars , rowing down a rapid body of water in a blue and white kayak .",Who is rowing?,A pair of athletes,no,4099
+Hundreds of people walking on a very busy street with stars hanging from them .,Where was something hanging?,from buildings,no,1351
+Two hockey players trying to get a puck to go their way while a referee makes a decision .,What does someone make?,play,no,3978
+A young man of color is wearing black cleats with red socks while he kicks a yellow soccer ball around .,What is someone wearing?,cleats,yes,4154
+"A man wearing a blue polo shirt and dark glasses is carrying a protest sign that say "" Come on now , what 's gayer than tea "" .",What did someone wear?,a blue polo shirt and dark pants,no,2909
+"A young boy wearing over - sized blue tank top and shorts , and a red and blue cap , is looking through the viewfinder on a camera placed on a tripod .",What is someone looking through?,the viewfinder,yes,1145
+"A man wearing a plaid cap , his arm covered in tattoos , pours a mixed drink into a martini glass that sits beside an squat liquor bottle with a silver label , a dark brown bottle with a light label and a green bottle with a striped , brown label .",Where does something sit?,rack,no,3948
+A baby wearing a white sleeper is sleeping in a crib .,What is someone sleeping in?,a crib,yes,1363
+"A black and white spaniel gently mouths the face of a toddler - aged girl wearing a red shirt , khaki skirt and black shoes while the girl looks somewhat amused and somewhat disgusted by the dog 's touch .",Who looks?,woman,no,3170
+Men dressed in camouflage assist in helping clean up a grassy field .,What is someone helping  doing?,clean up a grassy area,no,1181
+A someone wearing a red shirt and a white and dark cap is standing underneath a canopy outside a building .,Who is wearing something?,A man,no,1341
+"One man in a blue coat is doing an ice sculpture , while a second man dressed in black is raking up ice shavings .",How was someone dressed?,in tan,no,393
+Two men share their love of motorcycles .,Who shares something?,they,no,2276
+A rugby player attempts to break free of an opposing player with both sides closing in .,Who is closing?,both teams,no,2339
+A person with a black knapsack and wearing a cape is riding a blue scooter .,Who is riding something?,A person with a black knapsack and wearing a helmet,no,1531
+"A child standing on a chair to shove his face into a fire by a candle , his negligent father watches on in bemusement .",What is something shoved from?,river,no,1420
+New sport is being played to show appreciation to the kids who can not walk .,What is played?,this,no,3930
+This group is doing their best to try and enjoy the new hospital orientation .,Who tries?,everyone,no,1136
+A woman holding a broom in a small bathroom ; anotthem woman is right outside the door speaking with her .,Who is someone speaking with?,her,no,101
+"Six people tend to various chores and live on board a sailing ship while it 's docked in a harbor ; while three of the men appear to be dressed in normal clothes like jeans and plain or striped shirts , the other two men and the woman are dressed as pirate characters .",What does someone tend to?,various chores and responsibilities,no,3543
+Three construction workers stand over a job site wearing ragged and tattered clothing while a man and woman pass behind them and a large pill of dirt and debris sit in between .,Where does something sit?,in front,no,505
+A woman in a dimly lit room looks through her microscope and adjusts the vision .,What does someone adjust?,time,no,3984
+A guy surfing the web eating pizza .,How is someone surfing something?,people,no,3514
+girl in red and black raising her leg,What is someone raising?,hands,no,278
+"A man walks through a clearing and carries a rifle along his back , casually holding it by the muzzle .",What is something held by?,hand,no,3756
+An Asian man wearing metallic dress riding a brown horse is raising his arm in a field .,What did someone wear?,metallic armor,no,3787
+A caucasian man wearing a short - sleeved black shirt and a dark - skinned woman wearing a sleeveless dress are working at a conveyor .,What is someone wearing?,blouse,no,916
+The dirty vehicle is caught in a school .,Where is something caught?,in a flood,no,1335
+A man empties a bag of white crystals into a swimming pool .,What does someone empty?,powder,no,350
+Athletes wearing helmets and jackets displaying logos of multiple sponsors walk down a road with an audience lined up along the road .,Who walks somewhere?,players,no,4108
+"A black man with gray eyes , wearing a tan and white plaid button - down shirt , is steadying a large woven circular basket of bananas atop his head .",Who wore something?,A black man with gray hair,no,2983
+Three women huddling for warmth under a blanket .,Where did someone huddle for something?,building,no,1068
+An asian woman is sitting on the floor inside holding a purse made from palm fronds .,What is something made from?,palm fronds,yes,1955
+A giant reflective object which people are passing by and also looking at .,Who is passing?,they,no,1856
+"A man riding a four - wheel ATV in the dessert , kicking up sand in his wake .",What is being kicked?,dirt,no,372
+"Two Argentina basketball players , one incredibly happy , and the other a little frustrated , with their coach clapping for one of the players and a female player walking off the court smiling .",Who was walking somewhere?,a female manager,no,4233
+A man wearing coat is looking at an electronic device wile holding a lollipop .,What did someone wear?,glasses,no,125
+A recently adopted mixed breed medium sized dog bounds happily around the yard .,What bounds somewhere?,which,no,1620
+A older lady is working with a mix master while two young boys stand next to her with aprons on helping her .,How does someone stand somewhere?,aprons,yes,1454
+A young baby wearing blue sleepwear has a pacifier in his mouth and is sleeping .,What does someone wear?,blue sleepwear,yes,1053
+A toddler wearing an Elmo t - shirt is standing in Santa 's sleigh .,What is someone standing in?,sleigh,yes,180
+A tailor uses a long pole to search for a certain piece of fabric suspended above him .,Where is something suspended?,them,no,1822
+Four men- two in hats and two with mustaches- sit together by a fountain and large vents .,How does someone sit?,there,no,3204
+A middle - aged man sits in an industrial workspace reading a newspaper .,Where is someone reading something?,workspace,yes,2274
+A few people with bags opening a door .,What is someone opening?,a shutter,no,3223
+A woman wearing chef clothing stands proudly displaying intricately carved fruit- one a watermelon carved into stone and the other a pineapple with geometric shapes .,How is something carved?,into flowers,no,3771
+"A man in a black shirt , covered in paintball splatter , makes a face .",What is covered in something?,suit,no,1908
+A young brunette wearing purple and black floral stretch pants is attaching her bike to a finch .,What is something attached to?,wall,no,3274
+"Six people tend to various chores and responsibilities on board a sailing ship while it 's docked in a harbor ; while three of the men appear to be dressed in normal clothes like jeans and plain or striped shirts , the other two men and the woman are dressed as pirate women .",What is someone dressed as?,pirate characters,no,3557
+"A baseball often pitches a fastball to an on - looking batter , catcher , and Umpire .",Who pitches something?,A baseball pitcher,no,3831
+A group of children and their guardian walk on the boardwalk and eat ice cream .,Who walks somewhere?,families,no,2464
+Two men are standing : one has body modifications and the other is wearing a hat .,Who is standing?,they,no,1088
+An olympic contender from China is struggling to lift a barbell .,Who is struggling to do something?,team,no,4236
+A man is using a wrench to fix the wheel of his car while a blond girl helps him .,When is something being fixt?,them,no,610
+A that is describing stuff using chalk on a chalkboard .,Who is using something?,A man,no,2167
+"A man is sitting on a bannister on a pier holding a bunch of colorful balloons , while more balloons tied to the bannister behind him blow in the wind .",What is someone holding?,flowers,no,3802
+"There is a man wearing construction gear , standing next to a bulldozer that is picking up rubble and debris .",Who is standing somewhere?,girl,no,36
+A hiker discovers a feature in an otherwise barren landscape .,Who discovers something?,A hiker,yes,2419
+"A brunette still in her early twenties wearing modern , rectangular glasses with black rims , points at some faintly visible scribbling on what looks like either a dry - erase board or a museum display of children 's scribbles .",Who wore something?,A brunette female,no,353
+"A female cowgirl riding a cowboy , at a ranch .",What is someone riding?,a horse,no,3245
+"A very young adorable baby who has a long - sleeve shirt on that says i am the boss , is crying and upset .",Who says something?,girl,no,3600
+A woman wearing a mock ancient Egyptian headdress .,Who wore something?,while,no,1332
+A bare legged little boy is tugging on his underpants .,Who is tugging?,girl,no,3920
+"An Indian man , wearing his underclothes , pours water over them .",Who does someone pour something on?,himself,no,271
+A sergeant leads his troops in formation inside a large building with lots of flags in the background .,Where does someone lead something?,inside a large room,no,3495
+An woman wearing headphones is sitting on a subway wearing a blue face mask while three men also wearing the masks to prevent germs look back in her eyes .,Why is someone wearing something?,to prevent germs look back in her direction,no,2309
+four men are looking at a motor on the back of a wooden building .,Where is someone looking?,on the back of a wooden boat,no,2453
+A boy in blue and white shorts is sweeping with a broom and dustpan .,How is someone sweeping?,with a broom and dustpan,yes,1315
+"A caterer preparing food at an outdoor venue , with many dished on display .",How was someone dished?,them,no,1400
+He jumped into the pile of dirt we just finished raking .,What was someone raking?,the pile of leaves,no,265
+"A dog rests on a loveseat , while a man lies on a nearby sofa .",Where does something rest?,loveseat,yes,2540
+"A man drinking a beer , is trying to remove a possum from a bar with a broom .",Who is drinking something?,sometimes,no,3320
+An olympic contender from australia is struggling to lift a barbell .,Who lifts something?,An olympic contender from China,no,4239
+"An older man sitting on a blue stool playing a sitar for money , with a young boy sitting on a white sack next to him .",Who was playing something?,kids,no,3886
+"A blond - haired girl sits in a fetal position on a pile of rocks , his finger on a crack in the rock .",Who sits somewhere?,A blond - haired boy,no,3603
+"Two Argentina basketball players , one incredibly happy , and the other a little frustrated , with their coach clapping for one of the players and a female manager walking off the court smiling .",Where was someone walking?,street,no,4234
+A woman wearing chef clothing stands proudly displaying intricately carved fruit- one a watermelon carved into flowers and the other a pineapple with geometric shapes .,Who wore something?,others,no,3762
+A smiling man with a beard holds up a poster showing an abstract elephant head painted in horizontal rainbow stripes .,What was painted?,an abstract elephant cartoon,no,2905
+The student observes a microscope slide through a microscope while trying to match what she sees with images in her workbook .,Who matches something?,someone,no,2936
+"A man on horseback pulls back sharply on the reins while holding a coil of reins , as he waits to come out of a chute in a rodeo competition .",What is someone holding?,a coil of rope,no,3339
+A woman walking on a sidewalk with a metal piece of her bag creating a glare .,What is being created?,wall,no,2398
+One woman playing an oboe behind a woman playing a violin and eyeing sheet music .,Who is playing something?,someone,no,3646
+A man pulling a rickshaw or handcart is sharing a road in China with an Audi and truck .,Where is someone sharing something?,time,no,3676
+A black man wearing a safety vest and hard hat is dumpster diving and appears to be holding a piece of electrical conduit .,What is someone holding?,a piece of electrical conduit,yes,3919
+A man picking up a softball as another slides to the base .,How is someone picking up something?,left,no,4152
+A man pulling a rickshaw or handcart is sharing a place in China with an Audi and truck .,What is someone sharing?,a road,no,3675
+"The elderly , overweight student is wearing a hat , moccasins , and a purple shirt while reading a book on a sidewalk in front of a tree .",Who is wearing something?,"The elderly , overweight man",no,2847
+A man in a purple shirt adding sugar to a bowl of orange mush .,What is being added?,something,no,1300
+Yong man with cellphone and goatee holding Obama sign,Who is holding something?,goatee,yes,1984
+Nine black and brown pugs in harnesses playing on a grassy lawn .,What is someone playing on?,field,no,2104
+"A that mows the lawn at an orchard , careful to avoid the hedges and flowers on either side of him .",Who mows something?,A man,no,3285
+"A man playing scrabble with carrots , celery , onions , limes , apples and cauliflower in the pictures while his opponent has rocks spelled out on his face .",Where is something spelled?,on his tray,no,1539
+"A lady dressed in a beautiful pink , jewel encrusted outfit and makeup standing next to two children .",How is something encrusted?,heavily,no,3486
+a man sits on a similar listing to his iPod,What is listing to something?,a bench,no,2377
+A woman is helping another woman with the closure on her dress .,Who is someone helping?,they,no,2836
+A dog that looks much like a coyote jumps into the air over a grassy field to catch a tennis ball .,Where does something jump?,snow,no,1220
+Spectators looking on while court jesters are in the street throwing something up in them .,When is someone looking somewhere?,while court jesters are in the street throwing something up in air,no,665
+"A black and white spaniel gently mouths the face of a toddler - aged girl wearing a red shirt , khaki skirt and black shoes while the girl looks somewhat amused and somewhat disgusted by the dog 's touch .",What did someone wear?,boots,no,3168
+"Sitting at the rear of a crowd of kids on the grassy hill , an Asian man plays his shamisen , a Japanese stringed instrument .",Where is someone sitting?,at the rear of a crowd of people,no,687
+A dog that looks much like a coyote jumps into the snow over a grassy field to catch a tennis ball .,What does something jump into?,the air,no,1221
+Celebrating St. Patrick 's Day at 2:10 pm & an police patrol is going inside a room .,Who is celebrating something?,an police officer,no,2743
+An older someone reads a periodical as he is beset on each side by a gentleman ( one on each ) .,How does someone read something?,as he is beset on each side by a gentleman,no,2881
+A woman designer extolling the virtues of one of her paper lamps to a potential client .,Who extolled something?,from,no,2946
+"A bare headed man wearing a dark blue cassock , sandals , and dark blue socks mounts the stone steps leading into a weathered old building .",Who was headed?,kids,no,3118
+A person is reaching out of a hole in a high rise to pull on a rope pulley .,Where is someone reaching?,out of a window,no,87
+Beach goers look at a heart left in the heart by a sky writer .,Where is something left?,in the sky,no,1073
+"There is a man wearing construction gear , standing next to a bulldozer that is picking up rubble and stuff .",What is being picked?,rubble and debris,no,39
+A man standing near a wall with charcoal in it .,Where was someone standing?,near a grille,no,585
+A red - haired woman looks like the cameraman .,How does someone look?,past,no,3539
+Three children play children and act like celebrities with their props .,How does someone play?,together,no,1641
+"A bulldozer works to demolish a decrepit building ; in the background , another brick building waits for its demise , its face covered with a grid of blackened window - windows .",What is blackened?,window - holes,no,601
+well using a sander to remove rust of metal .,Who removes something?,Man,no,975
+A girl with freckles and metal earrings enjoys a home indoors .,What does someone enjoy?,a cherry,no,2455
+"A young person , wears red sandals , black pants and a blue shirt , his head and face covered with a checked scarf and carrying a rocket weapon .",What is someone carrying?,a rocket launcher,no,875
+A girl wearing a white polka dotted pink bow in her hair squeezes a bubble in front of her face .,Who squeezes something?,someone,no,220
+Several individuals getting together to play the bagpipes and eat some cuisine .,How is someone getting?,ready,no,4338
+"An Asian band , whose guitarist is shown near the right and those drummer is shown on the left , plays in a venue lit with blue rope lightning and a reddish cattle skull wall fixture .",What is something litted with?,walls,no,3576
+"A young boy wearing over - sized blue tank top and shorts , and a red and blue shirt , is looking through the viewfinder on a camera placed on a tripod .",What is looking?,"A young boy wearing over - sized blue tank top and shorts , and a red and blue cap",no,1143
+Men dressed in camouflage assist in helping clean up a grassy field .,Why was someone dressed?,assist in helping clean up a grassy area,no,1179
+A man is using a wrench to fix the wheel of his car while a blond girl helps him .,Who is fixing something?,someone,no,608
+"A man controlling a dog sled approaches another dog sled team in a narrow , snowy passageway between two sets of trees .",What is someone controlling?,a dog sled,yes,1957
+A tailor uses a long pole to search for a certain piece of lace suspended above him .,What is suspended?,a certain piece of fabric,no,1821
+A they performs a lab test using fresh raw eggs .,Who performs something?,A scientist,no,819
+Ladies attending a medical seminar .,Who is attending something?,others,no,234
+Athletes wearing helmets and jackets displaying logos of multiple sponsors walk down a walk with an audience lined up along the road .,Where does someone walk?,down a road,no,4109
+A child is riding a mountain bike as he passes by an ornamental gateway .,When is someone riding something?,wall,no,3058
+Two women are bathing at a house .,What is someone bathing at?,a spa,no,1437
+A bird flying pass the song .,What does something pass?,the walkway,no,749
+will push through the snow during a crosscountry skiing trial .,Who pushes into something?,Athletes,no,4011
+kid eating pasta,What is someone eating?,food,no,1646
+A man with curly hair and glasses tries to tug a large person on a boat to no avail .,What is being tugged?,a large rope,no,1295
+"A man drinking a beer , is trying to remove a possum from a bar with a broom .",Who is trying to do something?,sometimes,no,3322
+A mixed martial artist performing a sidekick,Who is performing something?,arts,no,4284
+A rugby usually attempts to break free of an opposing player with both teams closing in .,What does someone attempt?,to break free of an opposing player,no,2333
+"A young boy wearing over - sized blue tank top and shorts , and a red and blue cap , is looking through the viewfinder on a camera placed on a tripod .",Who is wearing?,woman,no,1140
+A furry black and white dog jumps over a wall during an agility test .,What does something jump into?,a bar,no,2297
+Woman in red shift and long white pants kneeling on tennis court .,What is kneeling?,long white socks,no,2547
+The girl in plaid is helping the little girl feed an apple to a horse .,Where is something being fed?,person,no,2042
+A male this takes measure of a woman 's blood pressure .,Who takes something?,A male doctor,no,1303
+"A young girl is lying on some personal belongings , on a cart that is dragged by a horse and a man , on a dirt route .",Where is someone lying somewhere?,horse,no,3250
+A young man wearing a purple shirt does the limbo in a gymnasium .,What did someone wear?,cape,no,2488
+"A man with a determined look on his face holds a small wooden hammer while wearing a bib displaying a large red crab , another red crustacean held in his hand while another man sits and holds some food behind him .",Who holds something?,others,no,14
+It looks as though there was a beauty competition of some sort sponsored by the group as evidenced by the stuffed panda bears .,How does something look?,as though there was a beauty competition of some sort sponsored by the Chinese,no,4279
+A group of youths march down the steps waving flags showing the color spectrum .,Where was someone waving something?,down the street,no,927
+Woman in red shift and long white socks kneeling on tennis court .,Who is kneeling?,pants,no,2546
+An older man with his nipples peirced stands shirtless .,What was peirced?,hands,no,1732
+"A man is standing in the street wearing an elaborate outfit which includes a blue t - shirt , suspenders and purple tights .",Who is standing?,which,no,3364
+A brown - haired women wearing spectacles crafts jewelery by hand using a desk lamp .,Who is using something?,A brown - haired woman,no,3775
+which dressed in either theatrical or historical attire riding horses .,Who was dressed in something?,Men,no,997
+four people in a snow covered room with hacksaws .,What is covered?,field,no,2777
+A team of players gather around a coach who welcomes them with appraisal .,Who welcomes someone?,women,no,3454
+"three young boys playing hear no song , speak no evil , see no evil",What is being seen?,no evil,no,905
+"A man on horseback pulls back sharply on the reins while holding a coil of rope , as he waits to come out of a chute in a rodeo competition .",Where does someone come somewhere?,rodeo,no,3346
+A wrestling they just ended and the loser is upset .,What ended?,A wrestling match,no,2067
+A worker is carrying plywood for a construction project .,What is someone carrying something for?,worker,no,132
+"Two men in life jackets , in a rubber raft powered by an engine , are traveling at high speed on the water with wind turbines on the distant shore .",Who is traveling?,they,no,3668
+A man throws a disc in a world .,Where does someone throw something?,in a park,no,1265
+Small dog seeks comfort from his owner in this shopping scene .,Where does someone seek something?,game,no,706
+"A young children is lying on some personal belongings , on a cart that is dragged by a horse and a man , on a dirt route .",Who is lying?,A young girl,no,3247
+"Young men and women sit at a wooden table on which several partially - drunk beverages have been placed ; the picture is interrupted by an outstretched hand , colored green in the odd light of the wood - paneled interior .",Where does someone sit?,bench,no,1026
+An asian girl attempts to put out a wildfire with a small wooden bucket .,Who attempts to do something?,An asian man,no,199
+An African American girl who had just received a doll from a family who adopted her from the states .,Who did someone receive something from?,world,no,1596
+A pastor on a cellphone in front of a stone building with five officers wearing green uniforms ; two are standing while the others are seated .,Who was wearing something?,people,no,784
+A woman poses with a minstrel in a city square .,What does someone pose with?,a minstrel,yes,3391
+A man with a cellphone calling and two women are sitting on the beach,Who is calling someone?,A man with a cellphone,yes,1499
+"An older man sitting on a blue stool playing a sitar for money , with a young boy sitting on a white sack next to him .",What is someone sitting on?,sack,no,3884
+A small white and tan kids licking up peanut butter .,What is licking up something?,A small white and tan dog,no,2171
+Celebrating St. Patrick 's church at 2:10 pm & an police officer is going inside a room .,What is being celebrated?,St. Patrick 's Day,no,2741
+A man wearing a vest with numerous buckles and goggles on his forehead looks down at a woman in red and black striped pants who is wearing lace gloves and holding a toy gun .,Who is wearing something?,another,no,522
+People buying groceries after massive earthquakes had hit their hometown in recent weeks,What has hit something?,hail,no,654
+A farmer fertilizing his garden with manure with a horse and wagon .,What is something being fertilized with?,others,no,1876
+three men are at a party nd playing music .,What is someone playing?,games,no,1889
+a man sits on a bench listing to his iPod,What is something listing to?,voice,no,2378
+"A man wearing a plaid shirt , gray vest , and brown tie takes orange blood from a silver punch bowel .",What does something take?,orange punch,no,3953
+A drummer is sitting behind a drum kit near to someone playing a guitar .,Who is sitting?,they,no,2142
+A woman and her saint bernard dog sitting on a bench in the park on a sunny day,Who is sitting somewhere?,people,no,694
+A rugby player attempts to break free of an opposing player with both teams closing in .,What does someone attempt to do?,usually,no,2334
+Two young male hikers using a map and compass to find their direction in the woods .,Who finds something?,hikers,yes,982
+"Six people tend to various chores and responsibilities on board a sailing ship while it 's docked in a harbor ; while three of the men appear to be dressed in normal clothes like jeans and plain or striped shirts , the other two men and the woman are dressed as pirate characters .",When does someone tend to do something?,town,no,3544
+An African dressmaker puts the finishing touches on a garment while two women watch .,What is something finishing on?,dress,no,1112
+"A woman is propping her leg up revealing cleavage , a great tatoo , and some kicking boots .",What is someone propping something of?,legs,no,590
+A female patent at a hospital sticking out her tongue .,What is being stuck?,back,no,2066
+"A man wearing a plaid cap , his arm covered in tattoos , pours a mixed drink into a martini glass that sits beside an squat liquor bottle with a silver label , a dark brown bottle with a light label and a green bottle with a striped , brown label .",Who is wearing something?,that,no,3938
+most are practicing as directed by a director .,Who is practicing?,Musicians,no,1893
+Couples and singles dancing with numbers attached to them .,What is something attached to?,these,no,556
+A girl in a multicolored coat with fur accents in sitting outdoors holding a stick .,Who is holding something?,women,no,4148
+A person ski jumps off an A frame shack .,Where does someone jump?,player,no,2106
+A woman walking down the street is carrying a knight in shining armor .,What is someone carrying?,woman,no,1238
+"A group of children , with adult helpers , work together .",Who works?,women,no,240
+Woman with yellow button up shirt and jeans is making beautiful pottery etchings into one of her works of art .,Where is something being made?,beauty,no,4062
+Three vikings walking on the people .,Where was someone walking?,on the boardwalk,no,3125
+"An Indian man , wearing his underclothes , pours them over himself .",What does someone pour?,water,no,269
+Three men repairing the building by means of manual labor .,What is someone repairing?,the streets,no,2591
+Three men are setting up a sledge on a snowy town .,Where is someone setting up something?,on a snowy plain,no,971
+"A man in a crowd holds a sign that says "" Those who blame Israel are hypocrites . """,Who holds something?,some,no,2060
+Men and women are dancing beside a brick building .,Where is someone dancing?,beside a brick archway,no,3255
+A woman is sanding a porch with an electric sander .,What is someone sanding something with?,an electric sander,yes,3375
+Lab technicians are working on a project and teaching the new tech the procedures of the project .,What is someone teaching something?,building,no,3642
+Ladies attending a medical school .,What is someone attending?,a medical seminar,no,235
+A group of silk clad performers dance in the street as a sparse crowd from .,How does someone dance somewhere?,as a sparse crowd watches,no,2155
+A girl wearing a white polka dotted pink bow in her hair squeezes a bubble in front of her face .,What is dotted?,girl,no,218
+A man in a black coat walks past a red spaceship with a parking ticket stuck to its side .,What is something stuck to?,its window,no,923
+New sport is being played to show appreciation to the kids who can not help .,Why is something played?,to show appreciation to the kids who can not walk,no,3931
+"A man drinking a beer , is trying to remove a possum from a bar with a broom .",Where is something being removed?,wall,no,3326
+"A man wearing a breathing filter is painting some marks with red paint on a large , blue painting .",Who is painting something?,someone,no,4190
+A Chinese man is pushing a wheelchair with nobody in it on a busy Chinese street .,What is someone pushing?,thing,no,3380
+A safety inspector kneeling down checking off what appears to be train passenger seats .,How is someone kneeling?,while,no,1648
+A woman sits hidden in the dried stray awaiting an animal in the wild .,Where is something being awaited?,animal,no,2578
+"A someone is exiting a port - a - potty , relieved he can smell fresh air .",Who is relieved?,A man,no,4377
+Woman smiling outside of tent surrounded by fake flamingos in the snow during winter .,Who is surrounded?,like,no,2192
+A military someone says hello to a group of children waving American flags .,Who says something?,A military man,no,2677
+"A group of young people sit together on the stairs , some talking and some listening .",Who is talking?,women,no,2294
+"An elderly oriental looking woman , in a black jacket with flower print , is holding up a smiling woman in a brown hooded outfit with flower print .",What is someone holding up?,a smiling baby,no,341
+Three girls jumping outdoors in the suburbs .,Where was someone jumping?,down,no,3894
+"Two people in white sitting next to man in tan shirt , with two boys who are facing away from camera , all sitting around a table with blue top and blue and white dinnerware .",Who is sitting somewhere?,Two girls,no,279
+A heavily adorned buddhist or hindu religious typically wearing an ornate crown on an ornate throne holding a quill .,Who is hindu?,religious figure,no,1611
+"Performing some bike maintenance , the lady lubricates a frame before assembly is done .",When does someone lubricate something?,before assembly is completed,no,853
+A small boy playing with a toy train set on a tabletop .,Who is playing with something?,kids,no,72
+A man in a white shirt and black jean with a ponytail juggles balls as a bicycle leans against the wall with what looks like the belonging of someone from .,How does something lean somewhere?,with what looks like the belonging of someone homeless,no,1783
+"A woman works on a piece of computer equipment , while surrounded by a variety of mechanical and computer equipment , in what appears to be some type of laboratory workroom .",What does something appear to do?,to be some type of laboratory workroom,yes,33
+"At the rodeo , a patriotic cowboy and cowgirl prepare to ride with an american flag .",Where does someone prepare to do something?,show,no,812
+"One man with hair , dressed in fatigues is pointing and talking to other men standing next to him .",Who is talking to someone?,One man with glasses,no,1933
+A young man loses his balance on a stepladder as three others stand them in various poses .,Where does someone stand?,around,no,3467
+A girl wearing a black bikini jumps into a large body of water while an inflatable zebra floats above her head .,When does someone jump into something?,eyes,no,4228
+A lady adventurer with snowshoes is taking a walk in a snow covered area and checking her phone .,What is someone taking?,a break,no,3629
+a man with long hair pulled into a ponytail and thick framed black glasses stands at a stove stirring a pot of boiling water .,What stirs something?,table,no,1196
+Woman attempting to complete a spare in bowling using a red ball .,What did someone complete?,course,no,4184
+A girl and her mother getting lady for some romantic moments after a long day at work .,Who got someone?,A girl and her fiancee,no,1317
+An eccentric blond girl enjoys solitude in the park .,Who enjoys something?,An eccentric blond woman,no,2959
+An oriental florist arranging flowers,Who is arranging something?,An oriental florist,yes,3447
+Three military they are watching a female wearing a red sports shirt attempt to do a push up .,Who is watching something?,Three military males,no,3581
+A marching band dressed in red tunics and black trousers with tall black furry headpieces are walking in pairs in cadence down a sidewalk bordering a stone wall .,Who is walking?,women,no,3278
+A little girl wearing a pink and white striped bib is eating oatmeal at a restaurant table .,What is someone eating?,oatmeal,yes,2099
+A woman wearing shorts is feeding two llamas or alpacas in a while .,Where is something alpacas?,in a field,no,3443
+A blond woman in a yellow shirt lifts up her arm ands furrows her brow .,What does someone lift up?,face,no,300
+"three young boys playing hear no evil , speak no evil , see no evil",Who is playing?,girls,no,898
+A young man in a yellow and orange bathing suit squatting on a rocky protuberance overlooking the water .,What is overlooking something?,a rocky protuberance,yes,185
+An African woman carries a parcel on her head .,Who carries something?,women,no,1114
+A recently adopted mixed breed medium sized dog bounds dogs around the yard .,How does something bound?,happily,no,1621
+"A smiling , bare chested Oriental male wearing gray pants holds a sharp object against his chest in a disturbing portrayal of the last moments before he will commit suicide .",Who wears something?,"A smiling , bare chested Oriental man",no,4123
+Four men with binoculars look into the distance against a blue sky with wisps of white clouds .,Who looks into something?,they,no,2016
+A woodcarver is carving a bald eagle out of wood at a carnival as spectators look on .,Who is carving something?,A woodcarver,yes,2473
+A photo taken in a sepia setting with a man walking towards the camera along a cobble road lined with parked cars .,Who was walking?,person,no,2856
+Greyhound running on foot with blue vest with a white numeral two .,Where is something being greyhounded?,on track,no,137
+"A bedroom which contains a bed which has a striped bedspread and dust ruffle , is being vacuumed by a man wear navy shorts and t - clothes .",What does someone wear?,navy shorts and t - shirt,no,3297
+A young man in a yellow and orange bathing suit squatting on a rocky protuberance overlooking the water .,Who is squatting?,uniform,no,182
+A shoe shiner waits for customers .,Who does something wait for?,them,no,418
+"like in a boat on a lake , surrounded by mountains and forestry .",Who is surrounded by something?,Man,no,3111
+"Six people tend to various chores and responsibilities on board a sailing ship while it 's docked in a harbor ; while three of the men appear to be dressed in normal clothes like jeans and plain or striped shirts , the other two men and the woman are dressed as pirate characters .",What is docked?,vessel,no,3546
+Two women and a man are sitting on metal bollards .,Where is someone sitting?,bollards,yes,698
+A crowd is watching a group of people in orange have put on an exhibition of some sort .,What is someone watching?,a group of people in orange shirts,no,3861
+Greyhound running on track with blue vest with a white numeral two .,What is running?,always,no,138
+"A black and white spaniel they mouths the face of a toddler - aged girl wearing a red shirt , khaki skirt and black shoes while the girl looks somewhat amused and somewhat disgusted by the dog 's touch .",How does something mouth something?,gently,no,3165
+Man using a sander to remove rust of metal .,Why is someone using something?,people,no,974
+An empty chairlift and a chairlift occupied by two people are moving .,What is occupied?,chairlift,yes,2278
+A young kid breaking a rock with hammer,Who is breaking something?,##ly,no,2282
+Girl in black jacket sifting powdered sugar over a chocolate cake .,Who is sifting something?,both,no,906
+"Performing some bike maintenance , the team lubricates a frame before assembly is completed .",Who lubricates something?,the lady,no,851
+"A man is sitting on a bannister on a pier holding a bunch of colorful balloons , while more balloons tied to the bannister behind him blow in the wind .",What is something tied to?,bannister,yes,3806
+A man singing while playing guitar with passion .,Who is playing something?,while,no,468
+A woman in a green skirt and pink underskirt leans forward as she kneels .,Where does someone lean?,back,no,3733
+"Sitting at the rear of a crowd of people on the grassy hill , an Asian musician plays his shamisen , a Japanese stringed instrument .",Who plays something?,an Asian man,no,689
+"Six people tend to various chores and responsibilities on board a sailing ship while it 's docked in a harbor ; while three of the men appear to be dressed in normal clothes like jeans and plain or striped shirts , the other two men and the woman are dressed as pirate characters .",What does someone appear?,clothing,no,3550
+A this is removing a garter for a lady .,Who is removing something?,A man,no,1475
+A woman holding a giant hotdog covered with mustard .,What is someone holding?,hotdog,yes,230
+A platinum blond young woman wearing heavy makeup is carrying a pink clutch and talking on her mobile phone .,Who is wearing something?,girl,no,288
+Two coast training officers out on a training mission .,Who was officered?,Two coast guard,no,2587
+"A young boy is dressed in a blue helmet , sweater , jeans and what looks like he is going to go zip lining .",What is someone dressed in?,"a blue helmet , sweater , jeans and sneakers",no,3429
+Workers wearing hard hats and face ##ing process waste .,What is being faced?,masks,no,1409
+An woman wearing headphones is sitting on a subway wearing a blue face mask while three men also wearing the masks to prevent germs look back in her direction .,Where is someone sitting?,wall,no,2302
+A large black gorilla peers down at a group of young people from above while the peer inside his enclosure from below .,Where does someone peer somewhere?,below,no,3242
+Three blokes digging in the desert .,What is someone digging in?,yard,no,4164
+"A man is sitting on a bannister on a pier holding a bunch of colorful balloons , while more balloons tied to the bannister behind him blow in the wind .",Where is someone sitting?,bannister,yes,3798
+A woman with a red and orange apron makes paper - mache orbs while her friend leans into the frame .,What makes something?,hair,no,1588
+A father and his son cutting a cake during a dinner party held at their residence in texas .,Who was cutting something?,father,no,1266
+"Two girls in white sitting next to man in tan hair , with two boys who are facing away from camera , all sitting around a table with blue top and blue and white dinnerware .",Where is someone manned?,in tan shirt,no,281
+A young girls in a yellow and orange bathing suit squatting on a rocky protuberance overlooking the water .,Who is squatting somewhere?,A young man,no,181
+"Two young adults at a rodeo , one is helping the other to fix an injury to his arm after a brief ride .",Who is someone helping?,next,no,2634
+Two gondolas passing in a park .,Where is something passing?,in a canal,no,385
+Man in black tux singing his solo part in the film .,Where is something being sung?,in the performance,no,2533
+"A man in an aqua colored shirt , a sailor , a young boy wearing a red shirt and some other people tug on ropes while standing on a ship 's deck .",Who is wearing something?,woman,no,622
+"Two young pair at a rodeo , one is helping the other to fix an injury to his arm after a brief ride .",Who fixes something?,Two young adults,no,2637
+"A man is sitting on a bannister on a pier holding a bunch of colorful balloons , while more balloons tied to the bannister behind him blow in the night .",What does something blow in?,the wind,no,3809
+A man wearing bifocals sits and plays a guitar next to a young woman with a straw hat who is holding a violin .,Where does someone play something?,hair,no,2630
+Many woman on laying on bellies on floor holding hands .,What is someone holding?,them,no,848
+"An older man holding a crook , outside , wearing a red embroidered hat with a black tassel hanging from it , red glasses , and red and gold embroidered women over white robes",What is embroidered?,vest,no,1527
+A woman holding a giant hotdog covered with mustard .,What is covered with something?,hotdog,yes,232
+Women dress in a blue shirt standing next to a man holding a hand he used to spread the hay around as the crowd looks on .,What is someone holding?,a pitchfork,no,319
+People walking though an architectural design .,Who is walking?,other,no,3362
+"A young boy is dressed in a blue helmet , sweater , jeans and sneakers looks like he is going to go zip ##ping .",Why is someone going?,to go zip lining,no,3433
+Bicycle sportsman leaps bike in the air on a camping trail .,How does someone leap?,high,no,3660
+Two magicians trying to hurry up for a show in town .,What is someone trying to do?,together,no,3100
+Celebrating St. Patrick 's Day at 2:10 pm & an police officer is going inside a church .,Where is someone going?,inside a room,no,2745
+A logger cutting down a large tree trunk in barren woods .,Where is something being cut?,##ness,no,2084
+Women dress in a blue shirt standing next to a man holding a pitchfork he used to spread the hay around as the crowd looks on .,What did someone spread?,hand,no,326
+A older lady is working with a mix master while two young boys stand next to her with aprons on helping her .,Who stands somewhere?,women,no,1452
+People enjoy relaxation and reading in this green and shady spot .,What does someone enjoy?,relaxation,no,4220
+A lab kids looking at a slide under a high - powered microscope .,Who is looking?,A lab technician,no,3777
+A farmer fertilizing his garden with manure with a horse and wagon .,What is something fertilized with?,manure,yes,1874
+A man wearing a headset and an apron is filling up a cup with a beverage .,What is something filled with?,voice,no,1808
+members wearing helmets and jackets displaying logos of multiple sponsors walk down a road with an audience lined up along the road .,Who is wearing something?,Athletes,no,4103
+A man carving an angel out of a tree stump with a chainsaw .,What was carved?,an eagle,no,1713
+A man is smiling as he presents a playbill or pamphlet to photographer .,Who is pamphlet to something?,paul,no,2994
+A line of men in white uniforms with pale blue flaps on their shoulders as well as some type of gold badge on their chest being scolded by a drill sergeant .,Who was someone scolded by?,instructor,no,402
+Three military males are watching a female wearing a red sports shirt attempt to do a push up .,Who is wearing something?,woman,no,3584
+An Asian man sits on a stoop polishing cookware .,What is someone polishing?,cookware,yes,4349
+A crane is being used in the construction or destruction of a building along with a worker spraying water at the building .,Where is something used?,structure,no,3198
+A church choir is performing a Christmas carol while a projector in the background displays the lyrics .,What does something display?,message,no,408
+Several uniformed people carrying pens and wearing white gloves are lined up in ranks and standing at attention .,What is someone carrying?,firearms,no,2071
+A group of men wearing old military uniforms are standing in formation while they demonstrate the use of their rifles to a group of onlookers on a city hall .,When is someone standing somewhere?,while they demonstrate the use of their rifles to a group of onlookers on a city street,no,683
+A little girl in an orange sarong holds her doll against an iron fence as a bicycle passes behind her .,When does someone hold something?,their,no,2872
+Beach goers look at a heart left in the sky by a sky writer .,Who left something?,doctor,no,1074
+A football player dressed in green and white advances the ball while watched by a defender in blue .,When does someone advance something?,football,no,2226
+A soldier getting an award for his long commitment as a captain in the united states arm .,Why is someone getting something?,navy,no,158
+"A male wearing a strange suit covering face and head is seated on the accordion case in a street apparently blocked off , perhaps for a block party , while onlookers walk behind and listeners are seated in front in lawn chairs .",What is someone wearing?,a strange helmet,no,2433
+"Two men in life jackets , in a rubber raft powered by an engine , are traveling at high speed on the water with wind turbines on the distant shore .",What is someone traveling at?,altitude,no,3670
+"Bizarre live art exhibit with goddess type woman , man strapped to women , and hairy man in suit .",Where is someone strapped?,to dolly,no,2585
+A football team in red being tackled by opponents in white .,Who was tackled?,A football player,no,1543
+"After a great performance , these performers bow down in respect of the audience .",How does someone bow somewhere?,people,no,2450
+Nine black and brown pugs in harnesses playing on a grassy field .,Where is someone playing?,on a grassy lawn,no,2103
+Musicians are practicing as directed by a director .,How is someone practicing?,woman,no,1894
+An Asian man sits on a stoop polishing cookware .,Where does someone sit?,on a stoop,yes,4345
+A another wearing a vest with numerous buckles and goggles on his forehead looks down at a woman in red and black striped pants who is wearing lace gloves and holding a toy gun .,Who looks somewhere?,A man,no,525
+Two people are riding down a log flume in a theme park .,Where is someone riding?,flume,yes,520
+A gold medalist is celebrating his win next to his teammate with cameras surrounding him .,How is someone celebrating something?,them,no,4246
+A furry black and white dog jumps over a bar during an agility test .,When does something jump somewhere?,show,no,2298
+An Asian man wearing metallic armor riding a brown horse is raising his arm in a field .,Who is wearing something?,people,no,3786
+"A stout , elderly man wearing a red checkered suit , black shorts , sandals , and a green cap casts his line over a balustrade into murky waters , while several others in the background do the same .",What is checkered?,shirt,no,2891
+An African dressmaker puts the finishing touches on a garment while two women watch .,What does someone put?,hand,no,1108
+"People can be seen walking down a quaint city street , past colorful buildings and cafe customers sitting under parasols , with no cars in sight .",Where is someone sitting?,under parasols,yes,2955
+A man is wearing a blue shirt that is rolled up above his abdomen .,Where is something rolled?,head,no,228
+"In a gym setting , two men , one airborne and the other kicking , are performing martial arts moves opposite each other while two other men in the background are observing and applauding .",Who is performing something?,athletes,no,3532
+A woman in a green skirt and pink underskirt leans back as she kneels .,Who kneels?,A woman in a green skirt and pink underskirt,yes,3735
+"In a gym setting , two men , one airborne and the other kicking , are performing martial arts moves opposite each other while two other men in the background are observing and applauding .",Who is observing?,group,no,3534
+Lady with short brown hair and a red and white striped shirt with a name tag taking a sip from a bottle .,Where is something being taken?,from a cup,no,2203
+Two men are studying plans over a partially built reed aircraft mounted on sawhorses .,Who is studying something?,they,no,772
+A woodcarver is carving a bald eagle out of wood at a carnival as spectators look on .,When is someone carving something?,over,no,2476
+A woman in a yellow hat and yellow shirt holding her hand out like a claw .,Who is holding something?,someone,no,1250
+"A craftsmen sits , gazing intently at his work as he hammers a chisel at his work in order to carve small details onto the statue .",Who carves something?,then,no,3996
+A farmer fertilizing his garden with manure with a horse and wagon .,What did someone fertilize?,farm,no,1872
+two women and two men are posing for a self held camera photograph .,What is someone posing for?,from,no,2092
+Three men in hats inspect a small outdoor recreation of a steam locomotive .,What does someone inspect?,engine,no,2186
+"A woman wearing a red scarf , blue sweater and jeans is sitting there , cross legged amidst a series of stone or concrete blocks .",How is someone sitting?,alone,no,347
+Native Americans in decorative dress appear to be celebrating for a cause .,Who appears to do something?,women,no,3074
+A young man holding a beer bottle and a cigarette splashes fluid on water in a grill .,Where does something splash something?,on charcoal,no,1125
+A little girl in an orange sarong holds her doll against an iron fence as a bicycle passes behind her .,Where does something pass?,their,no,2874
+Women dress in a blue shirt standing next to a man holding a pitchfork he used to spread the hay around as the crowd looks on .,Why did someone use something?,just,no,322
+A girl in red short and a white T - shirt underground looking out of a window .,Where is something looking?,out of a hole,no,951
+"Six people tend to various chores and responsibilities on board a sailing ship while it 's docked in a harbor ; while three of the men appear to be dressed in normal clothing like jeans and plain or striped shirts , the other two men and the woman are dressed as pirate characters .",What is someone dressed in?,normal clothes,no,3553
+A they standing among a crowd gathered outdoors with the flag of Western Sahara and a white banner with inscription in the background .,Who is standing?,A girl,no,4315
+"You must have a great personality , since you chose to conduct this survey - type layout .",What did someone choose to do?,test,no,4292
+"A caterer preparing food at an outdoor level , with many dished on display .",Where is something being prepared?,at an outdoor venue,no,1397
+Artists working on a mosaic on the ground .,Where is someone working on something?,wall,no,2242
+A man pulling a rickshaw or handcart is sharing a road in China with an Audi and truck .,Who is sharing something?,from,no,3674
+A young child sits in a highchair and draws colorful squiggles on a white piece of paper .,Where does someone draw something?,light,no,2762
+A mam is pulling up leaves and dirt from along side a building with a blower .,What is someone pulling up?,water,no,3108
+A young blond girl sitting on a wall with a red pram along side her .,Where was someone sitting?,on a bench,no,3069
+A man with a pipe in his mouth looks with his eyebrow raised .,What is raised?,hand,no,4210
+Two women share gossip while waiting for a bus .,Who shares something?,they,no,330
+A someone in a black shirt is playing percussion on a set of empty five gallon buckets .,Who is playing something?,A man,no,1255
+A person wearing jeans and a t - shirt staining handrails on a sunny day .,What is something staining?,handrails,yes,4371
+A man is pouring grain from a sifter onto a very colorful blanket .,Where is someone pouring something?,wall,no,4040
+Woman attempting to complete a spare in bowling using a red hand .,What is being used?,a red ball,no,4187
+a man trying to touch a dolphin or whale or some kind of marine animal,Who is trying to do something?,sometimes,no,2524
+A person is using a dropper to disperse colored liquid into a clear beverage .,What disperses something?,dropper,yes,3960
+A man that has removed his shoes to kneel on a mat .,Who has removed something?,someone,no,4268
+A woman sells flowers and fruits at the market .,What does someone sell?,flowers and incense,no,1
+An elderly lady sits among a bounty of food sipping a refreshing beverage while a large straw hat protects her from the sun 's rays .,Where does someone sit?,tables,no,1860
+A city intersection with a man on bike and a store on the corner called SWATCH .,What is something called?,SWATCH,yes,3008
+A man is photographing a Budweiser sprint car at a level smoking its tires .,Where is someone photographing something?,at a speedway,no,1827
+Two elderly men are building a stone cottage right in front of a blue cottage .,What is someone building?,a stone cottage wall,no,1869
+Three men are making pizza dough .,What is someone making?,from,no,614
+A little girl wearing a pink and white striped bib is eating oatmeal at a restaurant table .,Who is eating something?,kids,no,2098
+"The motorist driving a Toyota Camry is approached on a heavily congested road by a solicitor wearing a knit cap , read T - shirt , and blue lightweight jacket .",What did someone wear?,##ted,no,3710
+A crowd is watching a group of people in orange shirts put on an expression of some sort .,What did someone put on?,an exhibition,no,3863
+A storefront with a sign written in chinese .,Where was something written?,english,no,3150
+a midget jumps over another midget .,Where does something jump?,over another midget,yes,1725
+The boxer hits his opponent in the head with a mighty hand .,How does someone hit someone?,with a mighty punch,no,3595
+"The competitor lunges forward seeking the point , while the defender easily steps aside",Who seeks something?,which,no,3826
+A young guys wearing all great is filling a cooler up with an assortment of foods .,Who is wearing something?,A young man,no,2509
+A marching women dressed in red tunics and black trousers with tall black furry headpieces are walking in pairs in cadence down a sidewalk bordering a stone wall .,Who was dressed in something?,A marching band,no,3275
+An they wearing headphones is sitting on a subway wearing a blue face mask while three men also wearing the masks to prevent germs look back in her direction .,Who is sitting somewhere?,An woman,no,2301
+An olympic contender from China is struggling to lift a barbell .,What is someone struggling to do?,barbell,yes,4238
+A young woman is flirting with her handsome husband .,What is someone flirting with?,her handsome date,no,3491
+A woman sits hidden in the dried stray awaiting an animal in the wild .,What is awaiting something?,water,no,2576
+A young man of color is wearing black cleats with red socks while he kicks a yellow soccer stick around .,What does someone kick?,a yellow soccer ball,no,4157
+"A craftsmen sits , gazing intently at his work as he hammers a chisel at his work in order to carve small details onto the statue .",When is someone gazing somewhere?,wife,no,3990
+A man is using a grinder on a locker 's lock,Who is using something?,this,no,2340
+"A teenage girl in blue is holding a piece of paper that says , "" Dreams , "" with another person .",What says something?,metal,no,114
+A man wearing a black suit is surrounded by many women inside a building with busts of people on the wall .,Who is someone surrounded by?,many people,no,49
+"A black man with gray hair , wearing a tan and white plaid button - down shirt , is steadying a large woven circular basket of bananas atop his head .",What is someone steadying?,food,no,2986
+Soccer player putting on moves that you thought could only happen in a video show .,Where can something happen?,in a video game,no,897
+A just about to get into an argument at a local pub .,Who got into something?,A man,no,423
+Woman makes a face while playing the board game Clue .,What does someone make?,start,no,1006
+Tattooed young woman chains her bicycle to a signpost while juggling a guitar on her back .,Where is something being juggled?,side,no,3182
+People trying out foods from a local bakery at a local potluck .,Where is something being tried?,potluck,yes,3106
+"A man wearing a black shirt and blue jeans up in the air holding a plywood in each hand in front of a building that has a word "" stomp "" .",Where is something being held?,foot,no,56
+A group of older students are sitting in a pub playing various instruments .,Who is playing something?,A group of older people,no,829
+Teen girl using landscape binoculars to look for waterfowl .,What does someone look for?,waterfowl,yes,783
+Women dress in a blue shirt standing next to a man holding a pitchfork he used to spread the hay just as the crowd looks on .,Where did someone spread something?,around,no,327
+Looks like everyone is getting good gas mileage here with all these beautiful scooters !,How does someone look?,mileage,yes,942
+A woman wearing headphones enjoys her coffee while writing on a notepad .,When does someone enjoy something?,notepad,yes,3142
+A newswoman being filmed in Times Square .,Who was filmed?,A newswoman,yes,2867
+A man in high rubber boots and a plaid shirt is pushing a broom over the mossy blacktop .,Where is something being pushed?,blacktop,yes,276
+"A Mac laptop , open , on top of a blue chair in a room with a group of people sitting in a semicircle around it .",Where is someone sitting?,semicircle,yes,978
+"A baseball pitcher pitches a fastball to an on - looking player , catcher , and Umpire .",Who is looking?,batter,no,3835
+The girl in plaid is helping the little girl feed an animal to a horse .,What does someone feed?,an apple,no,2041
+A man reading and evaluating the nation 's stocks .,What is someone reading?,women,no,1840
+A lady adventurer with lightshoes is taking a break in a snow covered area and checking her phone .,What is covered?,snow,no,3631
+"A man in a crowd holds a sign that says "" Those who blame Israel are hypocrites . """,What says something?,card,no,2062
+A group of people look on as a group of hot air balloons are inflated before takeoff .,Who looks on something?,women,no,3562
+A father and his son cutting a cake during a dinner party held at their residence in texas .,When did someone cut something?,event,no,1268
+People stand along the sidewalk watching a bus come their way .,Where is someone watching something?,wall,no,2554
+Several individuals getting together to play the bagpipes and eat some cuisine .,Who eats something?,just,no,4342
+A Jewish church joins for dinner on a sunday to worship .,Who joins for something?,A Jewish family,no,2265
+A group of women being served hors d'oeuvres at an affair .,Where was someone served?,exhibition,no,1430
+A girl wearing a white like dotted pink bow in her hair squeezes a bubble in front of her face .,How is something dotted?,polka,no,217
+A person in a heat resistant world is putting a metal mod in a pool of molten substance .,Who is putting something?,A person in a heat resistant suit,no,3135
+A man plays a recorder to a seagull by a brick wall .,Where does someone play something?,to a seagull,yes,1279
+"Man and woman and others , with scary , gory makeup and holding fake brain walking down the street .",Where is something being held?,steps,no,3194
+An elderly lady sits among a bounty of food sipping a refreshing wine while a large straw hat protects her from the sun 's rays .,How does someone sit somewhere?,sipping a refreshing beverage,no,1861
+A black man in a white shirt looks tired while a black women stirs a door .,When does someone look something?,while a black women stirs a pot,no,1885
+A mailman with a rolling mailbag smiling at the camera in front of a wall topped with an iron decorative wall .,What is something topped with?,an iron decorative fence,no,867
+"A lone performer or lecturer takes the lead in an urban setting , for a crowd of about 30 spectators .",What does someone take?,the stage,no,2111
+"An amateur astronomer looks into the eyepiece of a large telescope set up in a field next to its carrying case , while another one overviews the telescope itself .",What is set up?,machine,no,3852
+A man is performing a jumping trip on his side .,Where is someone jumping?,on his bicycle,no,1847
+One someone playing an oboe behind a woman playing a violin and eyeing sheet music .,Who is playing something?,One woman,no,3643
+Muay thai fighters competing in a match .,What is someone competing in?,a ring,no,3881
+A hand poking out of a black sweater sleeve is mixing an egg into a flour flour with a fork .,What is something mixed into?,a flour well,no,761
+A young girl suspended by rope next to a mesh .,Who was suspended?,were,no,1100
+An Asian band screaming at the top of their lungs and using drums .,What is someone using?,them,no,2924
+"As photographers , onlookers , and referee observe , two men in fighting gloves and headgear are shown in stop motion photography mid fight and in midair .",Who is shown?,headgear,yes,3684
+A man holding a baby and an older child admire a birthday home with candles .,What does someone admire?,a birthday cake,no,2521
+four men sit on a stage playing woodwind instruments looking at the four that stands in front of them which have the words The Thistle on them .,What stands somewhere?,four music,no,2615
+A young boy in his middle childhood is kicking his soccer ball .,When is someone kicking something?,school,no,4114
+"A man bent over in a forest wearing a red shirt and blue jeans , tapping the sign for maple syrup .",What was someone tapping?,the trees,no,3509
+A person is reaching out of a window in a high room to pull on a rope pulley .,How is someone reaching somewhere?,in a high rise,no,89
+"Two men in life jackets , in a rubber band powered by an engine , are traveling at high speed on the water with wind turbines on the distant shore .",What is powered?,a rubber raft,no,3665
+"A teenage girl in blue is holding a piece of paper that says , "" Dreams , "" with another person .",Who is holding something?,guys,no,112
+A curly - haired kid is throwing axes at bulls ' head painted targets .,Where is someone throwing something?,very,no,1924
+Woman smiling outside of tent surrounded by fake flamingos in the snow during winter .,How is something surrounded?,flamingos,yes,2194
+The gal in the yellow hard hat is about climbing up the steep rock .,Where is something climbing?,up the steep rock,no,3523
+"An older man sitting on a blue stool playing a sitar for money , with a young boy sitting on a white sack next to him .",Where was someone sitting somewhere?,them,no,3892
+"A man wearing a black shirt and blue jeans up in the air holding a plywood in each hand in front of a building that has a word "" stomp "" .",Who held something?,they,no,54
+Too hooded figures walk through a thicket .,Where does something walk?,through a thicket,yes,1357
+Greyhound running on foot with blue vest with a white numeral two .,How is something running?,on track,no,139
+A young male dancing Brazilian music Samba after Brazil soccer national team had won the Fifa World Cup .,Who wond something?,A young girl,no,1881
+The bride and the bride are staring into each others eyes as the preacher reads them their wedding vows .,Who is staring?,The bride and the groom,no,2379
+"A caterer preparing food at an outdoor venue , with some dished on display .",Who was dished?,many,no,1399
+A woman walking on a wall with a metal piece of her bag creating a glare .,Where is someone walking?,on a sidewalk,no,2395
+Two men working at a Donut Shop promote their new product candied apples as Customers decide what is the healthiest option .,Where is someone working?,company,no,3406
+"A man walks through a clearing and carries a rifle along his back , casually holding it by the hand .",How is something held?,by the muzzle,no,3755
+"A man wearing a blue polo shirt and dark pants is carrying a protest sign that say that Come on now , what 's gayer than tea "" .",What does something say?,""" Come on now , what 's gayer than tea """,no,2913
+"A craftsmen sits , gazing intently at his wife as he hammers a chisel at his work in order to carve small details onto the statue .",What is someone gazing at?,his work,no,3989
+A tailor uses a long time to search for a certain piece of fabric suspended above him .,What does someone use?,a long pole,no,1817
+"An Asian man wearing a graphic T - shirt that says "" Music is the weapon of the future "" and an Asian woman in a gray hoodie with hoop eyes sit on a bench and eat a meal of noodles and shrimp from styrofoam plates",Who eats something?,an Asian woman in a gray hoodie with hoop earrings,no,4335
+"Two men are walking down a dirt road with guns , as one carries a dead animal from hunting .",What is hunting?,arrow,no,1216
+"Young men and children sit at a wooden table on which several partially - drunk beverages have been placed ; the picture is interrupted by an outstretched hand , colored green in the odd light of the wood - paneled interior .",Who sits somewhere?,Young men and women,no,1025
+Voters are waiting to make .,Why is someone waiting?,to vote,no,1627
+"A black man wearing clothes popular in the late 60 's , has a left handed Fender Stratocaster , strapped on .",What is strapped on something?,a left handed Fender Stratocaster,yes,3117
+A woman with short hair listens to her iPod sitting along a wall .,What does someone listen to?,while,no,3358
+The white dog is drinking mountain dew in the snow .,Who is drinking something?,snow,no,2178
+A dental assistant prepping an elderly man for his appointment .,Why was someone prepped?,life,no,4288
+a boy wearing orange jumps from haystacks .,Where is something being worn?,haystacks,yes,1966
+"A young girl is lying on some personal belongings , on a cart that is dragged by a horse and a man , on a dirt route .",Where is someone lying?,level,no,3248
+"A brunette still in her early twenties wearing modern , rectangular glasses with black rims , points at some faintly visible scribbling on what looks like either a dry - erase board or a museum display of children 's scribbles .",Who points?,A brunette female,no,355
+"A wall half covered in dirt along with an older two story house line a wet road , the only person on the road is a black wearing a red tank top , black shorts , and light blue sneakers , he 's running a race and sports the number 5003 .",What is something covered in?,ivy,no,4323
+A someone in a green shirt hammering and another guy moving a box .,Who is moving?,another guy,no,657
+A curly - haired kid is throwing them at bulls ' head painted targets .,What is someone throwing?,axes,no,1923
+This young male is enjoying the innocence of childhood and warm weather .,Who is enjoying something?,This young girl,no,133
+A motorcycle racer takes a tumble while two competitors come racing up quickly from where .,What does someone come?,racing up quickly from behind,no,4045
+Women dress in a blue shirt standing next to a man holding a pitchfork he used to spread the hay around as the crowd looks on .,Who is standing somewhere?,someone,no,316
+An elderly lady sits among a bounty of food sipping a refreshing beverage while a large straw hat protects her from the sun 's rays .,Who is sipping something?,woman,no,1862
+Two men working at a Donut company promote their new product candied apples as Customers decide what is the healthiest option .,What is someone working at?,a Donut Shop,no,3407
+A man without a smile runs through water spraying out of a large silver dome .,What runs into something?,A man without a shirt,no,1157
+People are standing on a fire escape watching black smoke billow in the distance .,What is someone watching?,black smoke billow,yes,3387
+Eight people sitting down at a table indoors for refreshments .,Where is someone sitting?,place,no,1390
+Tattooed young woman chains her bicycle to a signpost while juggling a guitar on her side .,When does someone chain something?,while juggling a guitar on her back,no,3179
+"the alleyway of an urban city , the citizens going about their business .",What is someone going?,about their day,no,4303
+Two older women working their spindles diligently .,Who is working?,girls,no,882
+"A young boy wearing over - sized blue tank top and shorts , and a red and blue cap , is looking through the viewfinder on a camera placed on a tripod .",Where is someone looking?,viewfinder,yes,1144
+A man in a red and white striped shirt wearing a headlamp is working on a device with different colored lights .,What is colored?,wires,no,621
+A person is cooking what look likes sauce .,What does something like?,them,no,1562
+"Man and woman and others , with scary , gory makeup and holding fake hands walking down the street .",What is walking?,fake brain,no,3195
+"A black man with gray hair , wearing a tan and white plaid button - down shirt , is steadying a large woven circular basket of bananas atop his head .",What is woven?,food,no,2988
+A child is holding a cleanser in front of an oven .,What is someone holding?,cleanser,yes,1014
+A each holding a giant hotdog covered with mustard .,Who is covered with something?,A woman,no,231
+Two women cook while a child looks on in disapproval .,Who looks?,a man,no,3519
+A person in a purple jacket is squatting around several people .,Where is someone squatting?,around several moose,no,2809
+A baseball player in blue scoring run by crossing home plate .,What is someone crossing?,field,no,3794
+"A man in a yellow - and - black cycling outfit kneels against a bike , adjusting its weight .",What is someone adjusting?,its mechanism,no,4073
+An unidentified woman sleeping in a very unusual nook of a decorative stone wall .,Where was someone sleeping?,in a very unusual nook of a decorative stone structure,no,3133
+A man in a white shirt playing a white guitar standing in front of a door with the light casting a somewhat reddish hue on his shirt,Where is something standing?,in front of a microphone,no,3499
+"A man with a white shirt and pants wearing a black and white hat in front of a fire hydrant leaning against a white truck that says Caution - Children , Good Humor .",How is something leaning?,sign,no,1694
+Tattooed young woman chains her bicycle to a signpost while juggling a guitar on her back .,Where does someone chain something?,to a signpost,yes,3177
+"A woman works on a piece of computer paper , while surrounded by a variety of mechanical and computer equipment , in what appears to be some type of laboratory workroom .",Where does someone work?,on a piece of computer equipment,no,29
+"A group of children and adults are gathered in an outdoor desert setting as if preparing for or returning from an event , with several kids wearing matching light blue backpacks and a Saguaro cactus in the far left background .",How is someone setting something?,as if preparing for or returning from an outing,no,2713
+a man wearing ear defenders is shooting a pistol at a white target .,What is someone shooting?,shot,no,2346
+Two hockey players trying to get a puck to go their way while a team makes a decision .,Who makes something?,a referee,no,3977
+"three young boys playing hear no song , speak no evil , see no evil",What is someone playing?,hear no evil,no,899
+Four similarly styled brightly dressed women with long skirts dancing in the sunlight with trees framing their movements in the background .,What was styled?,girls,no,452
+"A fisherman cutting bait aboard his boat , which is moored at the dock , while pelicans swim nearby .",Who swims somewhere?,pelicans,yes,3617
+Man using a sander to remove rust of metal .,Who is using something?,well,no,972
+One young girl is braiding colored hair into another girls hair .,What is someone braiding?,colored cord,no,2797
+"A someone is exiting a port - a - potty , relieved he can smell fresh air .",Who is exiting?,A man,no,4375
+"A street market where goods of fruit and vegetables are being sold by three men , one wearing a long - sleeve white shirt and checked trousers , the next wearing a yellow shirt with green checkered bottoms , and the last in red .",What is checked?,bottoms,no,195
+The girl is feeding the bird with them .,What is someone feeding something with?,surprise,no,3041
+A man carrying steel beams across a lumberyard .,Where is something being carried?,across a lumberyard,yes,887
+An Asian man is going over some people that is sitting on a table with a pink carnation to two other men and a woman all of which are wearing glasses .,What is sitting?,some paperwork,no,4055
+"There are 7 dwarfs walking down a street lined with people and a couple of blue buildings in the background , one of which has a Disney Showcase sign on it .",What is lined with something?,road,no,3652
+Strippers on a pole with police and others gathered together for the show .,Where did someone gather?,around,no,3303
+Lab peoplenicians are working on a project and teaching the new tech the procedures of the project .,What is someone teaching?,the new tech,no,3641
+An older male with his nipples peirced stands shirtless .,Who was peirced?,An older man,no,1731
+Ballerina performing as a girl girl in an open park .,How is someone performing?,as a girl rat,no,2963
+A black man wearing a blue shirt and some bling starring into the camera .,Where was someone bling?,dark,no,462
+Greyhound running on foot with blue vest with a white numeral two .,What is being greyhounded?,running on track,no,141
+The economy is shacking and affecting China .,What is shacking?,that,no,3146
+A they travels down the street in hopes of freeing Gaza .,What travels somewhere?,A protest,no,3021
+A man in a Tyrolean hat decorates a tan and white cow with ribbons and ribbons while a woman holds the cow 's head .,How does someone decorate something?,with ribbons and evergreen,no,3471
+"The motorist driving a Toyota Camry is approached on a heavily congested road by a woman wearing a knit cap , read T - shirt , and blue lightweight jacket .",Who wore something?,a solicitor,no,3709
+"A man with a white shirt and pants wearing a black and white shirt in front of a fire hydrant leaning against a white truck that says Caution - Children , Good Humor .",What was someone wearing?,a black and white hat,no,1691
+A little girl wearing a pink and white striped bib is eating oatmeal at a restaurant table .,What did someone wear?,a pink and white striped bib,yes,2095
+"A young lady wearing a turquoise colored bustier over a black shirt , a black skirt , netted tights , and laced up gloves is sitting next to five other young ladies , most of which are also dressed in black colored fitted clothing .",Who is dressed?,women,no,3264
+A platinum blond young woman wearing heavy makeup is carrying a pink clutch and talking on her mobile phone .,What is someone talking on?,radio,no,294
+"A craftsmen sits , gazing intently at his work as he hammers a chisel at his work in order to carve small details onto the image .",What is something carved into?,the statue,no,3999
+"A black man with gray eyes , wearing a tan and white plaid button - down shirt , is steadying a large woven circular basket of bananas atop his head .",Who is steadying something?,A black man with gray hair,no,2985
+The then dives to catch the popup at center field .,Who dives?,The outfielder,no,4169
+"A smiling , bare crannsted Oriental man wearing gray pants holds a sharp object against his chest in a disturbing portrayal of the last moments before he will commit suicide .",Who would commit something?,he,no,4131
+"A male wearing a strange helmet covering face and head is seated on the accordion case in a street apparently blocked off , perhaps for a block party , while onlookers walk behind and listeners are seated in front in lawn chairs .",Who is seated?,some,no,2442
+A man reading and evaluating the nation 's stocks .,What is someone evaluating?,women,no,1842
+An African family stands in the middle of a group of hay huts with plastic overlays .,What is hutted?,small,no,2706
+A guy who caught a giant game reels it in then picks it up with a extended net .,What did someone catch?,a giant fish,no,3837
+A BMW rider makes a fantastic jump as onlookers marvel .,What does someone make?,story,no,3236
+Two magicians trying to hurry up for a show in town .,Who is trying to do something?,Two magicians,yes,3099
+The outplayer dives to catch the popup at center field .,Where is something being caught?,at center field,no,4173
+Two paddlers propel a canoe down a tree - lined river .,Where does something propel something?,down a tree - lined stream,no,1057
+A young boy in a red shirt and ball cap is participating in an Easter Egg hunt and has found numerous people all in one area that he 's picking up .,What is being picked?,numerous eggs,no,4005
+"A man walks through a clearing and carries a weapon along his back , casually holding it by the muzzle .",What is being held?,a rifle,no,3753
+"A dressed in a University of New Hampshire t - shirt prepares to make smores with tinfoil , Hershey 's chocolate , graham crackers and marshmallows .",Who makes something?,A man,no,1835
+A motorcycle racer takes a tumble while two competitors come racing up from from behind .,How is someone racing somewhere?,quickly,no,4047
+"A young boy is dressed in a blue helmet , sweater , jeans and sneakers looks like he is going to go zip lining .",What is someone going?,##ping,no,3436
+A group of elderly peddlers selling blow up balloons and toys along the side of a street .,Who is selling something?,peddlers,yes,2010
+A woman is presenting various documents using multimedia equipment .,Who is using something?,india,no,2352
+"A black man with gray hair , wearing a tan and white plaid button - down shirt , is steadying a large woven circular basket of bananas atop his head .",What did someone wear?,jacket,no,2984
+A grandpa and they are playing in the backyard .,Who is playing somewhere?,A grandpa and granddaughter,no,3129
+"A young kids is dressed in a blue helmet , sweater , jeans and sneakers looks like he is going to go zip lining .",Who is dressed in something?,A young boy,no,3427
+A people in plaid strums and guitar while singing into a microphone in stage .,Who is singing into something?,A man,no,3159
+Two children display a stone with dialect on it while people in the area are reading .,Who is reading?,people in the background,no,1815
+A hand poking out of a black sweater sleeve is mixing an ingredient into a flour well with a fork .,What is being mixed?,an egg,no,759
+Several people hang out at a school .,Where does someone hang up?,at a winery,no,2373
+Two male Asian preteens giving the peace sign to the camera,What did someone give something to?,group,no,2918
+"A craftsmen sits , gazing intently at his work as he hammers a chisel at his work in order to carve small pieces onto the statue .",What is being carved?,small details,no,3997
+A man wearing bifocals sits and plays a song next to a young woman with a straw hat who is holding a violin .,What does someone play?,a guitar,no,2629
+"A child standing on a chair to shove his face into a fire by a candle , his negligent self watches on in bemusement .",Who watches on something?,his negligent father,no,1421
+A white and brown dog is pooping whist attached to leash by a tree .,How is someone pooping?,whist,yes,1789
+"A man with a determined look on his face holds a small wooden hammer while wearing a bib displaying a large red crab , another red crustacean held in his hand while another man sits and holds some food behind him .",What is someone wearing?,bib,yes,18
+A young blond woman looking into a small compact applying face paint outdoors .,What is someone looking into?,window,no,380
+a blond riding on a horse riding uniform carrying a teddy bear riding a donkey or pony .,Who is riding something?,a blond child,no,2457
+A group of boys exploring the world .,What is someone exploring?,the seaside,no,3737
+A furry black and white they jumps over a bar during an agility test .,What jumps somewhere?,A furry black and white dog,no,2295
+A man singing while playing guitar with passion .,How is someone playing something?,them,no,470
+Two men working at a Donut Shop promote their new product candied apples as Customers decide what is the healthiest option .,How does someone promote something?,choice,no,3410
+A group of people of mixed ages sit on a bus that features red headrests .,Where does someone sit?,table,no,2768
+A woman walking by two cardboard cowboy gunslingers outside of a building with people written on it .,Who was written on something?,Dave,no,249
+A student uses old planer to work wood in a shop .,What works something?,old planer,yes,1575
+A skier is skiing down a mountain wearing goggles and a red anorak .,What is someone wearing?,anorak,yes,3658
+A caucasian man wearing a short - sleeved black shirt and a dark - skinned woman wearing a sleeveless dress are working at a conveyor .,Where is someone working?,conveyor,yes,914
+Women dress in a blue shirt standing next to a man holding a pitchfork he used to spread the hay around as the crowd looks on .,When did someone spread something?,around,no,328
+Girl regains appears in a sunset with a man in the background,What does someone regain?,composure,no,1833
+"A young man is looking for a ride on a country road , sitting on a grassy field with a large tree and mansion in the background .",Who is looking for something?,girl,no,2842
+A woman in a red shoulder shrug and brown eyes walking down a street passed a painted I Love New York wall sign with a doctor .,What is walking?,A woman in a red shoulder shrug and brown boots,no,2967
+Soldiers march carrying bayonets while a crowd looks on .,Who looks on something?,friend,no,312
+A person being dressed in clothing with feathers and sequins .,Who was dressed?,from,no,2234
+A newborn boy is lying in an incubator with many people attached .,What is attached?,many tubes,no,2885
+A group of people look on as a group of hot air balloons are inflated before takeoff .,What does someone look on?,them,no,3564
+Man wearing swim clothes hangs from helicopter on hoist line .,What is being swum?,fins,no,4277
+A man in a red coat stands in front of a lighthouse surrounded by a stone building .,How is something surrounded?,by a stone wall,no,1557
+will makes a face while playing the board game Clue .,Who makes something?,Woman,no,1005
+A large group of guys that look korean riding on a train in the middle of the wilderness during the fall .,Who looks?,A large group of people,no,1379
+A person is preparing to send a piece of paper through a paper shredder .,Where is something being sent?,shredder,yes,2624
+Two hockey players trying to get a puck to go their game while a referee makes a decision .,What is someone trying to do?,to get a puck to go their way,no,3969
+A man that has removed his shoes to kneel on a mat .,Why has someone removed something?,rock,no,4270
+"A they stands in front of an easel , on which is painted the young woman standing in front of the ocean with a parasol .",Who stands somewhere?,A man,no,537
+A small boy playing with a toy train set on a tabletop .,Where was something set?,on a tabletop,yes,77
+People sitting down in a shipyard with boats tied down in the background .,Who is sitting somewhere?,well,no,3740
+A young guys wearing all great is filling a cooler up with an assortment of foods .,Who is filling something?,A young man,no,2511
+A man wearing a vest with numerous buckles and goggles on his forehead looks down at a woman in red and black striped pants who is wearing lace gloves and holding a toy gun .,Where is something being worn?,hands,no,524
+The girl is feeding the bird with surprise .,Who is feeding something?,they,no,3038
+A person in a heat resistant suit is putting a metal mod in a pool of molten metal .,Where is something being putted?,in a pool of molten substance,no,3137
+"A tourist walks down the street , camera in hand , trying to find something worthy of a life .",What is being found?,something worthy of a photo,no,4361
+"A man playing scrabble with carrots , celery , onions , limes , apples and cauliflower in the pictures while his opponent has them spelled out on his tray .",What is spelled?,rocks,no,1537
+A toddler wearing a pink shirt and jeans is placed on a shopping cart while sitting next to a loaf of bread .,Who is sitting somewhere?,toddler,yes,770
+A man is using a wrench to fix the wheel of his bicycle while a blond girl helps him .,Why is someone using something?,to fix the wheel of his car,no,607
+A drummer is sitting behind a drum kit near to someone playing a song .,What is someone playing?,a guitar,no,2147
+A man is smoking a pipe and holding a honeycomb .,What is someone smoking?,a cigarette,no,2597
+"There is a man wearing construction gear , standing next to a bulldozer that is picking up rubble and debris .",Where is someone standing?,next to a bulldozer,yes,37
+A from empties a bag of white crystals into a swimming pool .,Who empties something?,A man,no,349
+A woman in a psychic readings shop reads a customer 's palm while other women wait .,Who waits?,people,no,3336
+An asian woman is sitting on the floor inside holding a purse made from palm fronds .,What is made?,hand,no,1954
+The man is comfortable sleeping knowing his chickens will sound the alarm .,What will something sound?,night,no,1378
+"A man with a determined look on his face holds a small wooden hammer while wearing a bib displaying a large red crab , another red crustacean held in his hand while another man sits and holds some food behind him .",What is being displayed?,hand,no,20
+"An older man sitting on a blue stool playing a sitar for money , with a young boy sitting on a white sack next to him .",Who was sitting?,kids,no,3882
+An olympic contender from China is struggling to lift a barbell .,Why is someone struggling?,to lift a barbell,yes,4237
+"An Asian rock , whose guitarist is shown near the right and those drummer is shown on the left , plays in a venue lit with blue rope lightning and a reddish cattle skull wall fixture .",Who is shown somewhere?,An Asian band,no,3567
+Three men are setting up a sledge on a snowy plain .,What is someone setting up?,sledge,yes,970
+"A man is sitting on a bannister on a pier holding a bunch of colorful balloons , while more balloons tied to the bannister behind him blow in the wind .",Where is something tied?,to the bannister,yes,3805
+A group of boys exploring the seaside .,Who is exploring somewhere?,people,no,3736
+Two dogs with the same coloring look like they are going to bite each other in the face .,Who is being bitten?,next,no,478
+Jockey riding a racehorse on a racetrack .,What is someone riding?,team,no,420
+A guitarist for a band looks intently on as he plays his guitar with guitar .,When does someone look somewhere?,as he plays his guitar with determination,no,2979
+A woman in a brown shirt and glasses looks at a diagram on a screen .,What does someone look at?,message,no,576
+"Two Argentina basketball players , one incredibly happy , and the other a little frustrated , with their hands clapping for one of the players and a female manager walking off the court smiling .",Who was clapping for something?,their coach,no,4231
+A young woman is flirting with her handsome date .,Who is flirting with something?,girl,no,3490
+The student observes a student slide through a microscope while trying to match what she sees with images in her workbook .,What does someone observe?,a microscope,no,2931
+"A man is selling hotdogs on a market , and there are tons of pigeons .",Where is someone selling something?,on a walkway,no,1051
+A female student at a hospital sticking out her tongue .,What is sticking up something?,A female patent,no,2065
+"The mother is in the kitchen cleaning , she has her cleaning clothes on .",Who is cleaning something?,mother,no,1312
+"One man with glasses , dressed in fatigues is pointing and talking to other men standing next to him .",How was someone dressed?,fatigues,yes,1928
+"A young man is looking for a ride on a country road , sitting on a grassy hill with a large tree and mansion in the background .",Where is someone sitting?,on a grassy field,no,2845
+Some colorful riflemen are walking in a parade .,What is someone walking in?,movie,no,3378
+Athletes wearing helmets and jackets displaying logos of multiple sponsors walk down a road with an audience lined up along the road .,What does someone wear?,often,no,4104
+Beach goers look at a heart left in the sky by a sky writer .,What does someone look at?,star,no,1070
+"Two men , both with driver caps are examining a sapling .",What is someone examining?,a sapling,yes,2973
+A young girl wearing purple and black floral stretch pants is attaching her bike to a finch .,Who is attaching something?,A young brunette,no,3271
+"A young boy , dressed in a karate gee and wearing a yellow belt , stands ready to defend himself inside a gym .",What does someone stand?,against,no,1042
+A man is describing stuff using chalk on a chalkboard .,Who is describing something?,that,no,2164
+A guitarist for a band looks intently on as he plays his guitar with determination .,Who plays something?,chase,no,2980
+A blond woman in a yellow shirt lifts up her arm ands furrows her brow .,What furrows something?,dress,no,304
+Small girls sit in benches a circle in a clapboard room- a slightly older girl wearing a white turtleneck sits on the right in front of them .,Where does something sit?,on the carpet,no,2755
+A people wearing bifocals sits and plays a guitar next to a young woman with a straw hat who is holding a violin .,Who sits?,A man,no,2627
+"A man smiles , while clinking ale bottles , with an unseen person , at a public establishment .",Who smiles?,that,no,242
+A heavily adorned buddhist or hindu religious figure wearing an ornate crown on an ornate throne holding a quill .,Where is something being worn?,hand,no,1614
+"A woman wearing a red scarf , blue sweater and jeans is sitting alone , cross legged amidst a series of stone or concrete blocks .",How is someone crossed?,over,no,348
+Mixing some concoction with hands .,How is something mixed?,them,no,3680
+A woman pouring a cup of beer in the wild .,What is someone pouring?,a cup of coffee,no,2975
+A woman in a green skirt and pink underskirt leans back as she kneels .,What is pinked?,underskirt,yes,3731
+A man in a thick blue winter jacket shoveling snow in a winter field .,Where is something being shoveled?,in a winter blizzard,no,2807
+A man throws a disc in a park .,What does someone throw?,ball,no,1264
+"A man wearing a black shirt and blue jeans up in the air holding a plywood in each hand in front of a building that has a word "" stomp "" .",What is holding?,a plywood,yes,55
+A man is seen through the window that has intricate detail .,Where is someone seen?,heart,no,2618
+Looking through a vehicle 's windshield at a dog crossing the river .,Where is something being looked at?,at a dog crossing the road,no,1975
+"A person , costumed as the devil , stands with a young woman .",Who does someone stand with?,child,no,1234
+A man with curly hair and glasses tries to tug a large rope on a person to no avail .,What does someone try?,to tug a large rope on a boat,no,1291
+"Man in blue jack , sleeping or passed out on a red public space .",Where is someone sleeping?,on a red public bench,no,2817
+A someone in a dimly lit room looks through her microscope and adjusts the vision .,Who looks into something?,A woman,no,3979
+Tourists board a Vietnamese skiff for a river tour .,Why does someone board something?,band,no,2140
+Soccer player putting on moves that you thought could only happen in a video game .,What did someone thinke?,show,no,894
+A man in overalls helps to raise a wooden stair banister with a pulley system .,How is something raised?,machine,no,1584
+Workers wearing hard hats and face masks process waste .,What is someone wearing?,##ing,no,1410
+husband and wife posing for a picture before going into,Where did someone go?,camping,no,3761
+A person is cooking what look likes sauce .,What is someone cooking?,them,no,1560
+"A man wearing a plaid cap , his arm covered in tattoos , pours a mixed drink into a martini glass that sits beside an squat liquor bottle with a silver side , a dark brown bottle with a light label and a green bottle with a striped , brown label .",What is striped?,brown label,no,3949
+A from dressed in orange overall sprays off an ocean side road with high pressure water .,Who was dressed in something?,A worker,no,4295
+"At an intersection , a man is pushing a gurney loaded with food in front of a woman wearing brown boots .",What is something loaded with?,boxes,no,2827
+Two dogs of the same breed are running through snow that has buried them .,What has something buried?,grass,no,2051
+Three men sitting around a table during a speaking engagement .,What was speaking?,session,no,1132
+"A young girl is lying on some personal belongings , on a cart that is dragged by a horse and a man , on a dirt route .",Who is something dragged by?,team,no,3252
+An African dressmaker puts the finishing hand on a garment while two women watch .,What is finishing?,touches,no,1111
+"At the rodeo , a patriotic cowboy and cowgirl prepare to ride with an american flag .",What does someone prepare?,horse,no,814
+A woman designer extolling the virtues of one of her paper lamps to a potential client .,Who was something extolled to?,person,no,2948
+A someone in a green shirt is working on a horse 's hoof .,Who is working?,A woman,no,959
+A little boy presses his against a window .,What does someone press?,his face,no,1105
+A woman holding a giant hotdog covered with blood .,What is something covered with?,mustard,no,233
+A woman shakes a cocktail .,What does someone shake?,story,no,860
+A male adolescent or young teenager is wearing camouflaged shorts or long swim trunks and is upside down over a body of water like a lake or reservoir whose cement walls and graveled top appear in the corner .,What is reservoir?,streets,no,42
+A woman in a dimly lit room looks through her microscope and adjusts the vision .,What does someone look into?,eyes,no,3982
+women outdoorsmen stand by a stony edifice in a forest .,Who is outdoorsmen?,Two,no,1773
+"Several young people adults sit around while a middle - eastern musician prepares to play keyboard , drums , violin and a mandolin .",Who plays something?,a middle - eastern band,no,491
+Two coast guard officers out on a training base .,What was someone officered on?,a training mission,no,2589
+"One someone in a blue coat is doing an ice sculpture , while a second man dressed in tan is raking up ice shavings .",Who is raking up something?,a second man,no,395
+A giant reflective people which people are passing by and also looking at .,What is looking?,A giant reflective object,no,1857
+A this is using a dropper to disperse colored liquid into a clear beverage .,Who disperses something?,A person,no,3959
+"A woman with brown hair , wearing a black sweater , black glasses , and dark pants is crossing a street pass three children while holding a lavender bag with white embroidery .",Who is wearing something?,eyes,no,718
+A man in a red coat stands in front of a lighthouse surrounded by a stone wall .,Who stands somewhere?,someone,no,1554
+A young lady in her early twenties is sweeping the floor of her kitchen and smiling at the camera .,Who is smiling?,woman,no,1686
+A little girl in an orange sarong holds her doll against an iron fence as a song passes behind her .,What passes somewhere?,a bicycle,no,2873
+"A bike is flipped upside while someone , their face obscured by a blue hoodie , works on the back tire .",What is obscured?,their identity,no,3227
+"overhead view of two people , a man and a woman , preparing a meal with potatoes .",What is someone preparing?,dish,no,856
+A rugby player attempts to break free of an oppostogetherg player with both teams closing in .,How does someone attempt to do something?,with both teams closing in,no,2335
+A young female basketball player in red and white blocks another in possession of the ball who is dressed in white and white .,How is someone dressed?,in white and maroon,no,2641
+A rugby player attempts to break some of an opposing player with both teams closing in .,What does someone break?,free,no,2337
+a man with long hair pulled into a face and thick framed black glasses stands at a stove stirring a pot of boiling water .,What is something pulled into?,a ponytail,no,1191
+three men are at a party nd playing games .,Who is playing something?,they,no,1888
+Two female tennis players showing great sportsmanship at a tennis match .,Who showed something?,team,no,802
+People are at an outdoor shopping bazaar walking and looking at merchandise .,Who is looking?,they,no,2444
+A man in a red and white striped suit wearing a headlamp is working on a device with different colored wires .,What is striped?,shirt,no,615
+"A woman is propping her leg up revealing cleavage , a great tatoo , and some kicking boots .",Who is propping something?,becky,no,588
+A man plugs his nose while trying something wthemh an obvious pungent odor as his female friends laughs it on .,What does someone laugh?,it,no,4029
+A handsist for a band looks intently on as he plays his guitar with determination .,What does someone play?,his guitar,no,2981
+"An amateur astronomer looks into the eyepiece of a large telescope set up in a field next to its carrying case , while another one overviews the telescope itself .",What does something overview?,machine,no,3856
+"Even though it 's rather cool for outdoor dining , many others are enjoying the cafeteria - style food .",Who is enjoying something?,many people,no,2865
+A person is using a dropper to disperse colored liquid into a clear beverage .,What is colored?,light,no,3964
+"Two they are playing rugby on a field , one with a blue uniform and one with a white uniform .",Who is playing something?,Two females,no,3779
+Man in black tux singing his solo part in the performance .,What is someone singing?,himself,no,2532
+Sitting guy handling a stapler while another guy looks on .,When is someone handling something?,over,no,716
+A another holding a broom in a small bathroom ; another woman is right outside the door speaking with her .,Who is speaking?,another woman,no,99
+The student observes a microscope slide through a microscope while trying to match what she sees with images in her workbook .,How does someone see something?,with images in her workbook,yes,2939
+"Several people dressed in blue , one is twirling a ribbon",Who is twirling something?,there,no,1426
+woman and little baby wearing red in Asian area,Who is wearing something?,woman and little girl,no,1503
+A child that is dressed as Spiderman is ringing the doorbell .,Who is ringing something?,someone,no,62
+Hundreds of people walking on a very busy street with stars hanging from them .,How was someone walking somewhere?,with stars hanging from buildings,no,1349
+Men dressed in camouflage assist in helping clean up a grassy field .,What is being cleaned?,a grassy area,no,1183
+Athletes push through the snow during a crosscountry skiing trial .,When does someone push into something?,exercise,no,4014
+A kid with a blue hat and braces holding onto a skateboard and appearing to give the impression that he is yelling .,What is someone appearing to do?,himself,no,1740
+"Man in black pants , white hands playing a flue as a lady in pink dances",What is playing something?,white shirt,no,603
+"Two like fighting , one is black , the other beige .",What is fighting?,Two dogs,no,1877
+Ice sculptures take on a whole new meaning in Alaska .,What does something take on?,look,no,438
+A group of people watches a boy on a skateboard launch off a ramp .,Who does someone watch?,player,no,2244
+"A there is selling hotdogs on a walkway , and there are tons of pigeons .",Who is selling something?,A man,no,1049
+that play beer pong .,Who plays something?,People,no,2237
+The little girl wearing pink is having fun bungee jumping .,How is someone jumping?,bungee,yes,2329
+Four women sitting on green outdoor furniture on a patio with a small doghouse in the backdrop .,Who is sitting?,they,no,838
+"A bare headed man wearing a dark blue cassock , sandals , and dark blue socks mounts the stone steps leading into a weathered old church .",What does something lead into?,a weathered old building,no,3123
+A guitarist for a band looks intently on as he plays his guitar with determination .,How does someone look?,down,no,2978
+Three military males are watching a female wearing a red sports shirt attempt to do a push back .,Why is someone watching something?,attempt to do a push up,no,3583
+A man wearing a red shirt and a white and dark cap is standing underneath a wall outside a building .,Where is someone standing?,underneath a canopy,no,1345
+A young man is gaining time to hit a punching bag as his peers watch from behind him .,What is someone gaining?,power,no,2423
+"A then sits , gazing intently at his work as he hammers a chisel at his work in order to carve small details onto the statue .",Who sits?,A craftsmen,no,3985
+"Musician sitting on the ground plays his guitar as crowds of people walk around while disregarding the sign in his case which states "" tell me why my music sucks "" .",What does someone walk through?,him,no,2655
+A man lifting up a woman by the waist dancing right in the middle of a little town .,How is someone lifting up something?,by the waist dancing ballroom,no,2581
+"As photographers , onlookers , and referee observe , two men in fighting gloves and headgear are shown in stop motion photography mid fight and in midair .",What is someone shown in?,during,no,3686
+Two men are studying plans over a partially built reed aircraft mounted on sawhorses .,Where was something mounted?,sawhorses,yes,776
+A skydiver hangs from the undercarriage of an airplane or some sort of air gliding device .,Where does someone hang?,club,no,4166
+A group of men dressed as American forefathers holding flags with a crowd and a brick building in the background .,Who was dressed?,people,no,806
+Two women and a man are sitting on metal bollards .,What is someone sitting on?,metal bollards,yes,699
+Two men stand just under the waterfall 's cascade .,How does someone stand?,strong,no,2687
+"A young lady wearing a turquoise colored bustier over a black shirt , a black skirt , netted tights , and laced up gloves is sitting next to five other young ladies , most of which are also dressed in black colored fitted clothing .",What did someone wear?,a turquoise colored bustier,yes,3257
+"A bulldozer works to demolish a decrepit building ; in the background , another brick building waits for its demise , its face covered with a grid of blackened window - windows .",How is something covered?,with a grid of blackened window - holes,no,599
+A guy who caught a giant game reels it in then picks it up with a extended net .,What reels something?,a giant fish,no,3839
+A vibrant tracker hikes through a scenic trail .,What does something hike through?,lake,no,890
+A someone wearing a gray shirt is taking clippings from a large plant .,Who is wearing something?,A man,no,1765
+"There are two women smiling , one with a red jacket and blond - hair and another wearing a black pantsuit .",What is someone wearing?,pantsuit,yes,1670
+A young woman leads a group of French youth in a protest group against Sarkozy,Where does someone lead someone?,in a protest chant,no,1175
+A painter is sitting at a street corner and has completed the majority of a painting of the Cafe across the street from himself .,Who has completed something?,this,no,2602
+Looking through a vehicle 's windshield at a dog crossing the river .,What is something crossing?,the road,no,1977
+A person is using a dropper to disperse colored liquid into a clear beverage .,Who is using something?,this,no,3956
+"A man bent over in a forest wearing a red shirt and blue jeans , tapping the trees for maple leaves .",What was someone tapping something for?,maple syrup,no,3511
+"A young boy and girl wearing coats , hats , and boots are at the beach looking at something that they found .",What does someone wear?,hats,no,2020
+A black man wearing a blue dress and some bling starring into the camera .,What did someone wear?,a blue shirt,no,459
+A young boy is using a hammer to spell out something on a thin sheet of metal with engraved bolts .,Why is someone using something?,words,no,4078
+"A woman works on a piece of computer equipment , while surrounded by a variety of mechanical and computer equipment , in what appears to be some type of laboratory workroom .",Who works?,often,no,28
+A toddler wearing an Elmo t - shirt is standing in Santa 's sleigh .,What is standing?,dress,no,178
+One young girl is holding a plastic sward with another young boy is holding a stick outside .,Who is holding something?,One young boy,no,1457
+Stevedores are waiting for a place to dock .,What docks?,a boat,no,949
+A someone wearing jeans and a t - shirt staining handrails on a sunny day .,Who is wearing something?,A person,no,4367
+"A man is exiting a port - a - potty , relieved he can smell fresh air .",What is someone exiting?,potty,yes,4376
+Road crew dressed in safety green shirts are standing near a white 4 x 4 truck .,Where is someone standing?,wall,no,1682
+Lab technicians are working on a project and teaching the new tech the procedures of the project .,Who is teaching something?,they,no,3640
+"Young men and women sit at a wooden bench on which several partially - drunk beverages have been placed ; the picture is interrupted by an outstretched hand , colored green in the odd light of the wood - paneled interior .",What does someone sit at?,a wooden table,no,1027
+"A group of people are sitting and standing holding a banner that stays , "" WE ARE DEMANDING . """,What stays?,sign,no,1064
+A middle - aged girl sits in an industrial workspace reading a newspaper .,Who sits somewhere?,A middle - aged man,no,2271
+The woman in the brown shirt is watching the other woman dry her hair .,What is someone watching?,hands,no,2254
+Young girl working on homework at fast food restaurant .,Who is working?,while,no,3026
+"A they dressed in a beautiful pink , jewel encrusted outfit and makeup standing next to two children .",Who was dressed in something?,A lady,no,3483
+"A man wearing a plaid cap , his arm covered in tattoos , pours a mixed drink into a martini bottle that sits beside an squat liquor bottle with a silver label , a dark brown bottle with a light label and a green bottle with a striped , brown label .",Where does someone pour something?,into a martini glass,no,3945
+Several people on people are all in a hurry to get somewhere .,Who gets somewhere?,Several people on horses,no,4119
+"An older man sitting on a blue stool playing a sitar for money , with a young girl sitting on a white sack next to him .",Who was sitting?,a young boy,no,3889
+"Wedding attendees dancing a little , before the bands starts .",When did someone dance?,were,no,3726
+The skateboarder prepares to wipeout .,Who prepares to do something?,skateboarder,yes,172
+A city intersection with a man on bike and a store on the side called SWATCH .,What is called something?,a store on the corner,no,3007
+A older lady is working with a mix master while two young boys stand next to her with aprons on helping her .,Who is someone working with?,machine,no,1450
+Asians eating in a restaurant with an orange motif .,What is someone eating in?,room,no,1434
+"At an intersection , a man is pushing a gurney loaded with boxes in front of a woman wearing brown boots .",Where is something loaded with something?,girl,no,2828
+A man carving an eagle out of a tree stump with a chainsaw .,Where is something being carved?,wall,no,1714
+A man collecting driftwood along side a body of water .,Where is something being collected?,work,no,3446
+A man with a pipe in his mouth looks with his eyebrow raised .,How does someone look?,like,no,4208
+Two female tennis players showing great sportsmanship at a tennis match .,What did someone show?,great sportsmanship,yes,803
+Bicycle that leaps bike in the air on a camping trail .,Who leaps?,Bicycle sportsman,no,3659
+A military man says hello to a group of children waving American flags .,What does someone say?,something,no,2678
+A cute child is sitting on the side in a yellow frock .,Where is someone sitting?,on the rocks,no,2213
+A group of men dressed as American forefathers holding flags with a crowd and a brick building in the background .,What was someone dressed as?,forefathers,yes,808
+A someone is using a wrench to fix the wheel of his car while a blond girl helps him .,Who is using something?,A man,no,605
+"Six people tend to various chores and responsibilities on board a sailing ship while it 's docked in a harbor ; while three of the men appear to be dressed in normal clothes like jeans and plain or striped shirts , the other two men and the woman are dressed as pirate characters .",How is someone dressed?,women,no,3556
+A girl wearing a black bikini jumps into a large body of water while an inflatable zebra floats above her head .,Who jumps into something?,someone,no,4224
+Two male Asian preteens giving the peace sign to the camera,Who gave something?,Two male Asian preteens,yes,2915
+Woman wearing black and kneeling on rollerskates with deer face antlers on top of her helmet .,What is someone kneeling on?,rollerskates,yes,3877
+The bulls take on the Hawks in the NBA march madness .,Where does someone take on something?,1915,no,4118
+Grandparents watching their daughter and great grandchild with adornment .,How is someone being watched?,adornment,yes,1772
+Two girls holding a box of possessions in a long underpass with cars in the background .,Where is something being held?,underpass,yes,2674
+Two young girls wrapped in holiday products pose for the camera .,What was someone wrapped in?,holiday garland,no,2135
