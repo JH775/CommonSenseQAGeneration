@@ -30,3 +30,8 @@ eval_loss = 0.6931444406509399
 eval_acc = 0.5319634703196348
 epoch = 2.9879518072289155
 total_flos = 943164415374720
+
+
+Results on all the data after 10 epochs:
+eval_loss = 0.6931470036506653
+eval_acc = 0.5626763401854091
