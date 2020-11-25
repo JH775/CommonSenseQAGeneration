@@ -4,7 +4,7 @@ The project was installed using these commands
 ```
 module load anaconda/py3
 
-source env create -n transformer
+conda create -n transformer
 source activate transformer
 
 pip install tensorflow
